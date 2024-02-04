@@ -3,7 +3,7 @@ name: Build LaTeX Document
 on:
   push:
     branches:
-      - master  # Adjust the branch as needed
+      - master
 
 jobs:
   build:
