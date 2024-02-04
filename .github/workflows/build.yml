@@ -21,6 +21,7 @@ jobs:
       run: mkdir -p build
     - name: Build LaTeX document
       run: |
+        cd $GITHUB_WORKSPACE/schaublin_13_first_gen/tex
         xelatex -interaction=nonstopmode -output-directory=$GITHUB_WORKSPACE/build schaublin_13_first_gen/tex/main.tex
     - name: Upload PDF artifact
       uses: actions/upload-artifact@v2
