@@ -1,0 +1,380 @@
+{
+  "locale": "en",
+  "text": "ENCLOSURES\nNotice concerning maintenance of ING-1A\nelectric coolant pumps\nInstructions regarding the motor\nIndex tables",
+  "lines": [
+    {
+      "description": "ENCLOSURES",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 549,
+          "y": 166
+        },
+        {
+          "x": 617,
+          "y": 165
+        },
+        {
+          "x": 617,
+          "y": 175
+        },
+        {
+          "x": 549,
+          "y": 176
+        }
+      ]
+    },
+    {
+      "description": "Notice",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 549,
+          "y": 191
+        },
+        {
+          "x": 589,
+          "y": 191
+        },
+        {
+          "x": 589,
+          "y": 201
+        },
+        {
+          "x": 549,
+          "y": 201
+        }
+      ]
+    },
+    {
+      "description": "concerning",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 599,
+          "y": 191
+        },
+        {
+          "x": 669,
+          "y": 191
+        },
+        {
+          "x": 669,
+          "y": 200
+        },
+        {
+          "x": 599,
+          "y": 200
+        }
+      ]
+    },
+    {
+      "description": "maintenance",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 677,
+          "y": 191
+        },
+        {
+          "x": 754,
+          "y": 191
+        },
+        {
+          "x": 754,
+          "y": 200
+        },
+        {
+          "x": 677,
+          "y": 200
+        }
+      ]
+    },
+    {
+      "description": "of",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 764,
+          "y": 190
+        },
+        {
+          "x": 776,
+          "y": 190
+        },
+        {
+          "x": 776,
+          "y": 200
+        },
+        {
+          "x": 764,
+          "y": 200
+        }
+      ]
+    },
+    {
+      "description": "ING",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 785,
+          "y": 190
+        },
+        {
+          "x": 805,
+          "y": 190
+        },
+        {
+          "x": 805,
+          "y": 199
+        },
+        {
+          "x": 785,
+          "y": 199
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 806,
+          "y": 190
+        },
+        {
+          "x": 812,
+          "y": 190
+        },
+        {
+          "x": 812,
+          "y": 199
+        },
+        {
+          "x": 806,
+          "y": 199
+        }
+      ]
+    },
+    {
+      "description": "1A",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 813,
+          "y": 190
+        },
+        {
+          "x": 826,
+          "y": 190
+        },
+        {
+          "x": 826,
+          "y": 199
+        },
+        {
+          "x": 813,
+          "y": 199
+        }
+      ]
+    },
+    {
+      "description": "electric",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 549,
+          "y": 203
+        },
+        {
+          "x": 605,
+          "y": 203
+        },
+        {
+          "x": 605,
+          "y": 213
+        },
+        {
+          "x": 549,
+          "y": 213
+        }
+      ]
+    },
+    {
+      "description": "coolant",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 614,
+          "y": 203
+        },
+        {
+          "x": 663,
+          "y": 203
+        },
+        {
+          "x": 663,
+          "y": 213
+        },
+        {
+          "x": 614,
+          "y": 213
+        }
+      ]
+    },
+    {
+      "description": "pumps",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 672,
+          "y": 204
+        },
+        {
+          "x": 704,
+          "y": 204
+        },
+        {
+          "x": 704,
+          "y": 214
+        },
+        {
+          "x": 672,
+          "y": 214
+        }
+      ]
+    },
+    {
+      "description": "Instructions",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 549,
+          "y": 216
+        },
+        {
+          "x": 633,
+          "y": 216
+        },
+        {
+          "x": 633,
+          "y": 227
+        },
+        {
+          "x": 549,
+          "y": 227
+        }
+      ]
+    },
+    {
+      "description": "regarding",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 643,
+          "y": 216
+        },
+        {
+          "x": 705,
+          "y": 216
+        },
+        {
+          "x": 705,
+          "y": 227
+        },
+        {
+          "x": 643,
+          "y": 227
+        }
+      ]
+    },
+    {
+      "description": "the",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 715,
+          "y": 216
+        },
+        {
+          "x": 735,
+          "y": 216
+        },
+        {
+          "x": 735,
+          "y": 227
+        },
+        {
+          "x": 715,
+          "y": 227
+        }
+      ]
+    },
+    {
+      "description": "motor",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 742,
+          "y": 216
+        },
+        {
+          "x": 777,
+          "y": 216
+        },
+        {
+          "x": 777,
+          "y": 227
+        },
+        {
+          "x": 742,
+          "y": 227
+        }
+      ]
+    },
+    {
+      "description": "Index",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 549,
+          "y": 229
+        },
+        {
+          "x": 584,
+          "y": 229
+        },
+        {
+          "x": 584,
+          "y": 238
+        },
+        {
+          "x": 549,
+          "y": 238
+        }
+      ]
+    },
+    {
+      "description": "tables",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 593,
+          "y": 229
+        },
+        {
+          "x": 634,
+          "y": 229
+        },
+        {
+          "x": 634,
+          "y": 238
+        },
+        {
+          "x": 593,
+          "y": 238
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1194 @@
+{
+  "locale": "fr",
+  "text": "PLAN DE LUBRIFICATION\nde la fraiseuse universelle de\ngrande pr\u00e9cision\nSCHAUBLIN 13\nFEEE!\nL\u00c9GENDE\nA\nO Huile fine\nHuile pour bo\u00eete de vitesses\nLubrification quotidienne\nLubrification hebdomadaire\nLubrification annuelle\nes\nDOA\nOuverture pour remplissage d'huile \u0398\u0394\nVoyant de niveau d'huile\nVis de vidange\nING 58-6a\nFABRIQUE DE MACHINES SCHAUBLIN S.A. B\u00c9VILARD/SUISSE",
+  "lines": [
+    {
+      "description": "PLAN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 238,
+          "y": 227
+        },
+        {
+          "x": 338,
+          "y": 229
+        },
+        {
+          "x": 338,
+          "y": 253
+        },
+        {
+          "x": 238,
+          "y": 251
+        }
+      ]
+    },
+    {
+      "description": "DE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 369,
+          "y": 230
+        },
+        {
+          "x": 414,
+          "y": 231
+        },
+        {
+          "x": 414,
+          "y": 254
+        },
+        {
+          "x": 369,
+          "y": 253
+        }
+      ]
+    },
+    {
+      "description": "LUBRIFICATION",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 443,
+          "y": 230
+        },
+        {
+          "x": 769,
+          "y": 235
+        },
+        {
+          "x": 769,
+          "y": 259
+        },
+        {
+          "x": 443,
+          "y": 254
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 235,
+          "y": 288
+        },
+        {
+          "x": 263,
+          "y": 289
+        },
+        {
+          "x": 262,
+          "y": 311
+        },
+        {
+          "x": 234,
+          "y": 310
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 271,
+          "y": 288
+        },
+        {
+          "x": 297,
+          "y": 289
+        },
+        {
+          "x": 296,
+          "y": 312
+        },
+        {
+          "x": 270,
+          "y": 311
+        }
+      ]
+    },
+    {
+      "description": "fraiseuse",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 304,
+          "y": 289
+        },
+        {
+          "x": 417,
+          "y": 292
+        },
+        {
+          "x": 416,
+          "y": 315
+        },
+        {
+          "x": 303,
+          "y": 312
+        }
+      ]
+    },
+    {
+      "description": "universelle",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 429,
+          "y": 291
+        },
+        {
+          "x": 563,
+          "y": 294
+        },
+        {
+          "x": 562,
+          "y": 317
+        },
+        {
+          "x": 428,
+          "y": 314
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 572,
+          "y": 295
+        },
+        {
+          "x": 600,
+          "y": 296
+        },
+        {
+          "x": 599,
+          "y": 319
+        },
+        {
+          "x": 571,
+          "y": 318
+        }
+      ]
+    },
+    {
+      "description": "grande",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 233,
+          "y": 350
+        },
+        {
+          "x": 313,
+          "y": 351
+        },
+        {
+          "x": 313,
+          "y": 375
+        },
+        {
+          "x": 233,
+          "y": 374
+        }
+      ]
+    },
+    {
+      "description": "pr\u00e9cision",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 323,
+          "y": 351
+        },
+        {
+          "x": 434,
+          "y": 352
+        },
+        {
+          "x": 434,
+          "y": 376
+        },
+        {
+          "x": 323,
+          "y": 375
+        }
+      ]
+    },
+    {
+      "description": "SCHAUBLIN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 233,
+          "y": 405
+        },
+        {
+          "x": 462,
+          "y": 408
+        },
+        {
+          "x": 462,
+          "y": 431
+        },
+        {
+          "x": 233,
+          "y": 428
+        }
+      ]
+    },
+    {
+      "description": "13",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 492,
+          "y": 408
+        },
+        {
+          "x": 519,
+          "y": 408
+        },
+        {
+          "x": 519,
+          "y": 430
+        },
+        {
+          "x": 492,
+          "y": 430
+        }
+      ]
+    },
+    {
+      "description": "FEEE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 302,
+          "y": 882
+        },
+        {
+          "x": 350,
+          "y": 889
+        },
+        {
+          "x": 349,
+          "y": 899
+        },
+        {
+          "x": 300,
+          "y": 892
+        }
+      ]
+    },
+    {
+      "description": "!",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 347,
+          "y": 889
+        },
+        {
+          "x": 356,
+          "y": 890
+        },
+        {
+          "x": 355,
+          "y": 899
+        },
+        {
+          "x": 346,
+          "y": 898
+        }
+      ]
+    },
+    {
+      "description": "L\u00c9GENDE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 171,
+          "y": 1594
+        },
+        {
+          "x": 312,
+          "y": 1597
+        },
+        {
+          "x": 311,
+          "y": 1627
+        },
+        {
+          "x": 170,
+          "y": 1624
+        }
+      ]
+    },
+    {
+      "description": "A",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 186,
+          "y": 1914
+        },
+        {
+          "x": 233,
+          "y": 1914
+        },
+        {
+          "x": 233,
+          "y": 1948
+        },
+        {
+          "x": 186,
+          "y": 1948
+        }
+      ]
+    },
+    {
+      "description": "O",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 197,
+          "y": 1674
+        },
+        {
+          "x": 245,
+          "y": 1674
+        },
+        {
+          "x": 245,
+          "y": 1714
+        },
+        {
+          "x": 197,
+          "y": 1714
+        }
+      ]
+    },
+    {
+      "description": "Huile",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 285,
+          "y": 1674
+        },
+        {
+          "x": 359,
+          "y": 1674
+        },
+        {
+          "x": 359,
+          "y": 1714
+        },
+        {
+          "x": 285,
+          "y": 1714
+        }
+      ]
+    },
+    {
+      "description": "fine",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 366,
+          "y": 1674
+        },
+        {
+          "x": 420,
+          "y": 1674
+        },
+        {
+          "x": 420,
+          "y": 1715
+        },
+        {
+          "x": 366,
+          "y": 1715
+        }
+      ]
+    },
+    {
+      "description": "Huile",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 285,
+          "y": 1736
+        },
+        {
+          "x": 354,
+          "y": 1738
+        },
+        {
+          "x": 354,
+          "y": 1759
+        },
+        {
+          "x": 285,
+          "y": 1757
+        }
+      ]
+    },
+    {
+      "description": "pour",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 366,
+          "y": 1747
+        },
+        {
+          "x": 421,
+          "y": 1748
+        },
+        {
+          "x": 421,
+          "y": 1768
+        },
+        {
+          "x": 366,
+          "y": 1767
+        }
+      ]
+    },
+    {
+      "description": "bo\u00eete",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 433,
+          "y": 1739
+        },
+        {
+          "x": 499,
+          "y": 1741
+        },
+        {
+          "x": 498,
+          "y": 1764
+        },
+        {
+          "x": 432,
+          "y": 1762
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 510,
+          "y": 1742
+        },
+        {
+          "x": 539,
+          "y": 1743
+        },
+        {
+          "x": 538,
+          "y": 1765
+        },
+        {
+          "x": 509,
+          "y": 1764
+        }
+      ]
+    },
+    {
+      "description": "vitesses",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 551,
+          "y": 1742
+        },
+        {
+          "x": 662,
+          "y": 1745
+        },
+        {
+          "x": 661,
+          "y": 1768
+        },
+        {
+          "x": 550,
+          "y": 1765
+        }
+      ]
+    },
+    {
+      "description": "Lubrification",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 284,
+          "y": 1777
+        },
+        {
+          "x": 454,
+          "y": 1781
+        },
+        {
+          "x": 453,
+          "y": 1809
+        },
+        {
+          "x": 283,
+          "y": 1805
+        }
+      ]
+    },
+    {
+      "description": "quotidienne",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 467,
+          "y": 1782
+        },
+        {
+          "x": 619,
+          "y": 1786
+        },
+        {
+          "x": 618,
+          "y": 1813
+        },
+        {
+          "x": 466,
+          "y": 1809
+        }
+      ]
+    },
+    {
+      "description": "Lubrification",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 283,
+          "y": 1826
+        },
+        {
+          "x": 453,
+          "y": 1828
+        },
+        {
+          "x": 453,
+          "y": 1853
+        },
+        {
+          "x": 283,
+          "y": 1851
+        }
+      ]
+    },
+    {
+      "description": "hebdomadaire",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 465,
+          "y": 1828
+        },
+        {
+          "x": 645,
+          "y": 1830
+        },
+        {
+          "x": 645,
+          "y": 1855
+        },
+        {
+          "x": 465,
+          "y": 1853
+        }
+      ]
+    },
+    {
+      "description": "Lubrification",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 283,
+          "y": 1875
+        },
+        {
+          "x": 451,
+          "y": 1878
+        },
+        {
+          "x": 451,
+          "y": 1901
+        },
+        {
+          "x": 283,
+          "y": 1898
+        }
+      ]
+    },
+    {
+      "description": "annuelle",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 465,
+          "y": 1878
+        },
+        {
+          "x": 578,
+          "y": 1880
+        },
+        {
+          "x": 578,
+          "y": 1903
+        },
+        {
+          "x": 465,
+          "y": 1901
+        }
+      ]
+    },
+    {
+      "description": "es",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 817,
+          "y": 680
+        },
+        {
+          "x": 922,
+          "y": 684
+        },
+        {
+          "x": 920,
+          "y": 728
+        },
+        {
+          "x": 815,
+          "y": 724
+        }
+      ]
+    },
+    {
+      "description": "DOA",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 810,
+          "y": 1225
+        },
+        {
+          "x": 960,
+          "y": 1226
+        },
+        {
+          "x": 960,
+          "y": 1272
+        },
+        {
+          "x": 810,
+          "y": 1271
+        }
+      ]
+    },
+    {
+      "description": "Ouverture",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 280,
+          "y": 1922
+        },
+        {
+          "x": 407,
+          "y": 1924
+        },
+        {
+          "x": 406,
+          "y": 1954
+        },
+        {
+          "x": 279,
+          "y": 1952
+        }
+      ]
+    },
+    {
+      "description": "pour",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 419,
+          "y": 1924
+        },
+        {
+          "x": 476,
+          "y": 1925
+        },
+        {
+          "x": 475,
+          "y": 1955
+        },
+        {
+          "x": 418,
+          "y": 1954
+        }
+      ]
+    },
+    {
+      "description": "remplissage",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 486,
+          "y": 1926
+        },
+        {
+          "x": 642,
+          "y": 1929
+        },
+        {
+          "x": 641,
+          "y": 1959
+        },
+        {
+          "x": 485,
+          "y": 1956
+        }
+      ]
+    },
+    {
+      "description": "d'huile",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 655,
+          "y": 1929
+        },
+        {
+          "x": 745,
+          "y": 1931
+        },
+        {
+          "x": 744,
+          "y": 1960
+        },
+        {
+          "x": 654,
+          "y": 1958
+        }
+      ]
+    },
+    {
+      "description": "\u0398\u0394",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 803,
+          "y": 1929
+        },
+        {
+          "x": 899,
+          "y": 1931
+        },
+        {
+          "x": 898,
+          "y": 1978
+        },
+        {
+          "x": 802,
+          "y": 1976
+        }
+      ]
+    },
+    {
+      "description": "Voyant",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 278,
+          "y": 1975
+        },
+        {
+          "x": 369,
+          "y": 1975
+        },
+        {
+          "x": 369,
+          "y": 2002
+        },
+        {
+          "x": 278,
+          "y": 2002
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 381,
+          "y": 1975
+        },
+        {
+          "x": 410,
+          "y": 1975
+        },
+        {
+          "x": 410,
+          "y": 2002
+        },
+        {
+          "x": 381,
+          "y": 2002
+        }
+      ]
+    },
+    {
+      "description": "niveau",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 422,
+          "y": 1975
+        },
+        {
+          "x": 509,
+          "y": 1975
+        },
+        {
+          "x": 509,
+          "y": 2002
+        },
+        {
+          "x": 422,
+          "y": 2002
+        }
+      ]
+    },
+    {
+      "description": "d'huile",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 519,
+          "y": 1975
+        },
+        {
+          "x": 611,
+          "y": 1975
+        },
+        {
+          "x": 611,
+          "y": 2003
+        },
+        {
+          "x": 519,
+          "y": 2003
+        }
+      ]
+    },
+    {
+      "description": "Vis",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 277,
+          "y": 2021
+        },
+        {
+          "x": 323,
+          "y": 2023
+        },
+        {
+          "x": 322,
+          "y": 2047
+        },
+        {
+          "x": 276,
+          "y": 2045
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 333,
+          "y": 2024
+        },
+        {
+          "x": 364,
+          "y": 2025
+        },
+        {
+          "x": 363,
+          "y": 2048
+        },
+        {
+          "x": 332,
+          "y": 2047
+        }
+      ]
+    },
+    {
+      "description": "vidange",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 374,
+          "y": 2025
+        },
+        {
+          "x": 476,
+          "y": 2029
+        },
+        {
+          "x": 475,
+          "y": 2053
+        },
+        {
+          "x": 373,
+          "y": 2049
+        }
+      ]
+    },
+    {
+      "description": "ING",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1417,
+          "y": 91
+        },
+        {
+          "x": 1465,
+          "y": 91
+        },
+        {
+          "x": 1465,
+          "y": 113
+        },
+        {
+          "x": 1417,
+          "y": 113
+        }
+      ]
+    },
+    {
+      "description": "58-6a",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1482,
+          "y": 91
+        },
+        {
+          "x": 1554,
+          "y": 91
+        },
+        {
+          "x": 1554,
+          "y": 113
+        },
+        {
+          "x": 1482,
+          "y": 113
+        }
+      ]
+    },
+    {
+      "description": "FABRIQUE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 206,
+          "y": 2105
+        },
+        {
+          "x": 403,
+          "y": 2108
+        },
+        {
+          "x": 402,
+          "y": 2154
+        },
+        {
+          "x": 205,
+          "y": 2151
+        }
+      ]
+    },
+    {
+      "description": "DE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 420,
+          "y": 2109
+        },
+        {
+          "x": 472,
+          "y": 2110
+        },
+        {
+          "x": 471,
+          "y": 2155
+        },
+        {
+          "x": 419,
+          "y": 2154
+        }
+      ]
+    },
+    {
+      "description": "MACHINES",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 489,
+          "y": 2109
+        },
+        {
+          "x": 691,
+          "y": 2112
+        },
+        {
+          "x": 690,
+          "y": 2158
+        },
+        {
+          "x": 488,
+          "y": 2155
+        }
+      ]
+    },
+    {
+      "description": "SCHAUBLIN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 714,
+          "y": 2113
+        },
+        {
+          "x": 1040,
+          "y": 2118
+        },
+        {
+          "x": 1039,
+          "y": 2164
+        },
+        {
+          "x": 713,
+          "y": 2159
+        }
+      ]
+    },
+    {
+      "description": "S.A.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1064,
+          "y": 2118
+        },
+        {
+          "x": 1161,
+          "y": 2119
+        },
+        {
+          "x": 1160,
+          "y": 2165
+        },
+        {
+          "x": 1063,
+          "y": 2164
+        }
+      ]
+    },
+    {
+      "description": "B\u00c9VILARD",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1181,
+          "y": 2120
+        },
+        {
+          "x": 1364,
+          "y": 2123
+        },
+        {
+          "x": 1363,
+          "y": 2169
+        },
+        {
+          "x": 1180,
+          "y": 2166
+        }
+      ]
+    },
+    {
+      "description": "/",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1366,
+          "y": 2123
+        },
+        {
+          "x": 1386,
+          "y": 2123
+        },
+        {
+          "x": 1385,
+          "y": 2168
+        },
+        {
+          "x": 1365,
+          "y": 2168
+        }
+      ]
+    },
+    {
+      "description": "SUISSE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1386,
+          "y": 2123
+        },
+        {
+          "x": 1535,
+          "y": 2125
+        },
+        {
+          "x": 1534,
+          "y": 2171
+        },
+        {
+          "x": 1385,
+          "y": 2169
+        }
+      ]
+    }
+  ]
+}

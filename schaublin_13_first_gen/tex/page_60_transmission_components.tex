@@ -1,0 +1,77 @@
+\chapter{Transmission Components}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/page_60_transmission_components}
+    \label{fig:transmission_components}
+\end{figure}
+
+
+\cover{290}{180}{3.1}{.5}
+
+\begin{textblock*}{2cm}(310pt,180pt)
+    \colorbox{white}{\parbox{\linewidth}{\small Spindle Axis}\vspace{2pt}}
+\end{textblock*}%
+
+
+\cover{290}{250}{3.1}{.5}
+
+\begin{textblock*}{2.5cm}(300pt,260pt)
+    \colorbox{white}{\parbox{\linewidth}{\small Variator Axis}\vspace{2pt}}
+\end{textblock*}%
+
+\newcommand{\transmission}[4][.5]{%
+    \def\coverXPosition{\numexpr #2 - 3\relax}
+    \def\coverYPosition{\numexpr #3 - 4\relax}
+    \cover {\coverXPosition}{\coverYPosition}{2.5}{#1}
+
+    {\small
+        \begin{textblock*}{4cm}(#2pt,#3pt) % width and position (x, y)
+            \begin{tabular}{|p{1.5cm}|c|}
+                \hline
+                #4
+                \hline
+            \end{tabular}
+        \end{textblock*}
+    }%
+}
+
+\newcommand{\motor}[3]{%
+    \def\coverXPosition{\numexpr #1 - 3\relax}
+    \def\coverYPosition{\numexpr #2 - 4\relax}
+    \cover {\coverXPosition}{\coverYPosition}{3.2}{2}
+
+    {\small
+        \begin{textblock*}{4cm}(#1pt,#2pt) % width and position (x, y)
+            \begin{tabular}{|l|}
+                \hline
+                #3
+                \hline
+            \end{tabular}
+        \end{textblock*}
+    }%
+}
+
+\transmission{98}{178}{13-148 & A \\}
+\transmission{98}{261}{13-229 & C \\}
+\transmission[1]{98}{295}{13-227 & B \\ \hline 13-228 & B \\}
+\transmission{98}{362}{13-14 & D \\}
+\transmission{98}{410}{13-14 & E \\}
+\transmission{210}{470}{13-1091 & F \\}
+
+\motor{305}{470}{Motor \\ \hline Three-phase 50Hz \\ 2HP 1500 r.p.m. \\}
+\motor{410}{470}{Motor \\ \hline Three-phase 60Hz \\ 2HP 1800 r.p.m. \\}
+
+{\small
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+        \hline
+        \multicolumn{6}{|c|}{\diameter Pulleys (mm)} & \multicolumn{5}{|c|}{Belts (mm or inch)} \\
+        \hline
+        A   & B      & C      & D   & E  & F   & Connection & Inner length & Profile       & Manufacturer & Identification   \\
+        \hline
+        181 & 146-54 & 146-54 & 119 & 51 & 140 & A/B        & 47 1/2"      & 1 x 11/32"    & Dayton       & S2268            \\
+        &        &        &     &    &     & C/D        & 47 1/2"      & 30\textdegree & Dayton       & S2268            \\
+        &        &        &     &    &     & E/F        & 725          & 10/6          & Pallas       & N\textdegree  6172 \\
+        \hline
+    \end{tabular}
+}

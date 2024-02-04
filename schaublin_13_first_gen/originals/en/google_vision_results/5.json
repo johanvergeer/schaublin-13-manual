@@ -1,0 +1,4736 @@
+{
+  "locale": "en",
+  "text": "1. TABLE\nSCHAUBLIN 13 UNIVERSAL MILLING MACHINE\nPRINCIPAL TECHNICAL DATA\nUseful area\nNumber of T-slots\nWidth of T-slots\nSpacing of T-slots\n2. TABLE MOVEMENTS\nLongitudinal (by means of feed-spindle\nor lever)\nVertical (by feed-spindle only)\n3. AUTOMATIC TABLE MOVEMENTS\n8 longitudinal feeds\n8 vertical feeds\n4. HIGH-SPEED TABLE FEED\n(only if specially ordered)\nLongitudinal and vertical\n5. SPINDLE HEAD\nAxial stroke (by feed-spindle or lever)\nExternal diam. of spindle nose\nInternal taper\n6. SPINDLE SPEEDS\n(by infinitely-variable gear)\n7. SPINDLE DRIVE MOTOR\nPower\nSpeed\n8. Approximate net weight of machine\nSpace required; length, depth, height :\nIN 13\n600 x 210 mm\n4\n12 mm\n40 mm\nSpindle bore\nDiameter of cutter arbors, long and short 13-16-22-25,4-27 mm\n260 mm\n310 mm\n11 to 210 mm/min.\n11 to 210 mm/min.\n1000 mm/min.\n150 mm\n69,832 mm (23\")\nASA B5 18-1943 N\u00b0 30\n15 mm\n56\n2100 r.p.m.\n2 HP\n1500 r.p.m.\n500 kilos\n(1loo lbs.)\n124 80\n100\nSCHAUBLIN LTD BEVILARD (Switzerland)\nGue\n150 cm.",
+  "lines": [
+    {
+      "description": "1.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 24,
+          "y": 176
+        },
+        {
+          "x": 57,
+          "y": 177
+        },
+        {
+          "x": 57,
+          "y": 203
+        },
+        {
+          "x": 24,
+          "y": 202
+        }
+      ]
+    },
+    {
+      "description": "TABLE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 81,
+          "y": 176
+        },
+        {
+          "x": 181,
+          "y": 178
+        },
+        {
+          "x": 180,
+          "y": 205
+        },
+        {
+          "x": 80,
+          "y": 203
+        }
+      ]
+    },
+    {
+      "description": "SCHAUBLIN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 262,
+          "y": 40
+        },
+        {
+          "x": 441,
+          "y": 40
+        },
+        {
+          "x": 441,
+          "y": 64
+        },
+        {
+          "x": 262,
+          "y": 64
+        }
+      ]
+    },
+    {
+      "description": "13",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 463,
+          "y": 40
+        },
+        {
+          "x": 500,
+          "y": 40
+        },
+        {
+          "x": 500,
+          "y": 64
+        },
+        {
+          "x": 463,
+          "y": 64
+        }
+      ]
+    },
+    {
+      "description": "UNIVERSAL",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 519,
+          "y": 40
+        },
+        {
+          "x": 698,
+          "y": 40
+        },
+        {
+          "x": 698,
+          "y": 64
+        },
+        {
+          "x": 519,
+          "y": 64
+        }
+      ]
+    },
+    {
+      "description": "MILLING",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 718,
+          "y": 40
+        },
+        {
+          "x": 856,
+          "y": 40
+        },
+        {
+          "x": 856,
+          "y": 64
+        },
+        {
+          "x": 718,
+          "y": 64
+        }
+      ]
+    },
+    {
+      "description": "MACHINE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 878,
+          "y": 40
+        },
+        {
+          "x": 1017,
+          "y": 40
+        },
+        {
+          "x": 1017,
+          "y": 64
+        },
+        {
+          "x": 878,
+          "y": 64
+        }
+      ]
+    },
+    {
+      "description": "PRINCIPAL",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 402,
+          "y": 91
+        },
+        {
+          "x": 580,
+          "y": 91
+        },
+        {
+          "x": 580,
+          "y": 117
+        },
+        {
+          "x": 402,
+          "y": 117
+        }
+      ]
+    },
+    {
+      "description": "TECHNICAL",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 601,
+          "y": 91
+        },
+        {
+          "x": 779,
+          "y": 91
+        },
+        {
+          "x": 779,
+          "y": 117
+        },
+        {
+          "x": 601,
+          "y": 117
+        }
+      ]
+    },
+    {
+      "description": "DATA",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 798,
+          "y": 91
+        },
+        {
+          "x": 878,
+          "y": 91
+        },
+        {
+          "x": 878,
+          "y": 117
+        },
+        {
+          "x": 798,
+          "y": 117
+        }
+      ]
+    },
+    {
+      "description": "Useful",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 81,
+          "y": 226
+        },
+        {
+          "x": 202,
+          "y": 228
+        },
+        {
+          "x": 201,
+          "y": 254
+        },
+        {
+          "x": 81,
+          "y": 252
+        }
+      ]
+    },
+    {
+      "description": "area",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 224,
+          "y": 229
+        },
+        {
+          "x": 302,
+          "y": 230
+        },
+        {
+          "x": 301,
+          "y": 256
+        },
+        {
+          "x": 224,
+          "y": 255
+        }
+      ]
+    },
+    {
+      "description": "Number",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 83,
+          "y": 264
+        },
+        {
+          "x": 199,
+          "y": 264
+        },
+        {
+          "x": 199,
+          "y": 287
+        },
+        {
+          "x": 83,
+          "y": 287
+        }
+      ]
+    },
+    {
+      "description": "of",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 222,
+          "y": 264
+        },
+        {
+          "x": 263,
+          "y": 264
+        },
+        {
+          "x": 263,
+          "y": 287
+        },
+        {
+          "x": 222,
+          "y": 287
+        }
+      ]
+    },
+    {
+      "description": "T",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 281,
+          "y": 264
+        },
+        {
+          "x": 299,
+          "y": 264
+        },
+        {
+          "x": 299,
+          "y": 287
+        },
+        {
+          "x": 281,
+          "y": 287
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 302,
+          "y": 264
+        },
+        {
+          "x": 319,
+          "y": 264
+        },
+        {
+          "x": 319,
+          "y": 287
+        },
+        {
+          "x": 302,
+          "y": 287
+        }
+      ]
+    },
+    {
+      "description": "slots",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 323,
+          "y": 264
+        },
+        {
+          "x": 417,
+          "y": 264
+        },
+        {
+          "x": 417,
+          "y": 287
+        },
+        {
+          "x": 323,
+          "y": 287
+        }
+      ]
+    },
+    {
+      "description": "Width",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 81,
+          "y": 299
+        },
+        {
+          "x": 182,
+          "y": 299
+        },
+        {
+          "x": 182,
+          "y": 323
+        },
+        {
+          "x": 81,
+          "y": 323
+        }
+      ]
+    },
+    {
+      "description": "of",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 202,
+          "y": 299
+        },
+        {
+          "x": 241,
+          "y": 299
+        },
+        {
+          "x": 241,
+          "y": 323
+        },
+        {
+          "x": 202,
+          "y": 323
+        }
+      ]
+    },
+    {
+      "description": "T",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 261,
+          "y": 299
+        },
+        {
+          "x": 280,
+          "y": 299
+        },
+        {
+          "x": 280,
+          "y": 323
+        },
+        {
+          "x": 261,
+          "y": 323
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 283,
+          "y": 299
+        },
+        {
+          "x": 300,
+          "y": 299
+        },
+        {
+          "x": 300,
+          "y": 323
+        },
+        {
+          "x": 283,
+          "y": 323
+        }
+      ]
+    },
+    {
+      "description": "slots",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 303,
+          "y": 299
+        },
+        {
+          "x": 397,
+          "y": 299
+        },
+        {
+          "x": 397,
+          "y": 323
+        },
+        {
+          "x": 303,
+          "y": 323
+        }
+      ]
+    },
+    {
+      "description": "Spacing",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 80,
+          "y": 335
+        },
+        {
+          "x": 220,
+          "y": 333
+        },
+        {
+          "x": 220,
+          "y": 362
+        },
+        {
+          "x": 80,
+          "y": 364
+        }
+      ]
+    },
+    {
+      "description": "of",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 241,
+          "y": 333
+        },
+        {
+          "x": 281,
+          "y": 332
+        },
+        {
+          "x": 281,
+          "y": 360
+        },
+        {
+          "x": 241,
+          "y": 361
+        }
+      ]
+    },
+    {
+      "description": "T",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 301,
+          "y": 333
+        },
+        {
+          "x": 319,
+          "y": 333
+        },
+        {
+          "x": 319,
+          "y": 361
+        },
+        {
+          "x": 301,
+          "y": 361
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 323,
+          "y": 332
+        },
+        {
+          "x": 340,
+          "y": 332
+        },
+        {
+          "x": 340,
+          "y": 360
+        },
+        {
+          "x": 323,
+          "y": 360
+        }
+      ]
+    },
+    {
+      "description": "slots",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 342,
+          "y": 332
+        },
+        {
+          "x": 436,
+          "y": 331
+        },
+        {
+          "x": 436,
+          "y": 360
+        },
+        {
+          "x": 342,
+          "y": 361
+        }
+      ]
+    },
+    {
+      "description": "2.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 24,
+          "y": 419
+        },
+        {
+          "x": 57,
+          "y": 419
+        },
+        {
+          "x": 57,
+          "y": 446
+        },
+        {
+          "x": 24,
+          "y": 446
+        }
+      ]
+    },
+    {
+      "description": "TABLE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 82,
+          "y": 419
+        },
+        {
+          "x": 179,
+          "y": 419
+        },
+        {
+          "x": 179,
+          "y": 445
+        },
+        {
+          "x": 82,
+          "y": 445
+        }
+      ]
+    },
+    {
+      "description": "MOVEMENTS",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 199,
+          "y": 418
+        },
+        {
+          "x": 379,
+          "y": 417
+        },
+        {
+          "x": 379,
+          "y": 444
+        },
+        {
+          "x": 199,
+          "y": 445
+        }
+      ]
+    },
+    {
+      "description": "Longitudinal",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 82,
+          "y": 471
+        },
+        {
+          "x": 321,
+          "y": 471
+        },
+        {
+          "x": 321,
+          "y": 502
+        },
+        {
+          "x": 82,
+          "y": 502
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 348,
+          "y": 471
+        },
+        {
+          "x": 358,
+          "y": 471
+        },
+        {
+          "x": 358,
+          "y": 502
+        },
+        {
+          "x": 348,
+          "y": 502
+        }
+      ]
+    },
+    {
+      "description": "by",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 364,
+          "y": 471
+        },
+        {
+          "x": 402,
+          "y": 471
+        },
+        {
+          "x": 402,
+          "y": 502
+        },
+        {
+          "x": 364,
+          "y": 502
+        }
+      ]
+    },
+    {
+      "description": "means",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 421,
+          "y": 471
+        },
+        {
+          "x": 517,
+          "y": 471
+        },
+        {
+          "x": 517,
+          "y": 502
+        },
+        {
+          "x": 421,
+          "y": 502
+        }
+      ]
+    },
+    {
+      "description": "of",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 542,
+          "y": 471
+        },
+        {
+          "x": 581,
+          "y": 471
+        },
+        {
+          "x": 581,
+          "y": 502
+        },
+        {
+          "x": 542,
+          "y": 502
+        }
+      ]
+    },
+    {
+      "description": "feed",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 603,
+          "y": 471
+        },
+        {
+          "x": 679,
+          "y": 471
+        },
+        {
+          "x": 679,
+          "y": 502
+        },
+        {
+          "x": 603,
+          "y": 502
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 682,
+          "y": 471
+        },
+        {
+          "x": 697,
+          "y": 471
+        },
+        {
+          "x": 697,
+          "y": 502
+        },
+        {
+          "x": 682,
+          "y": 502
+        }
+      ]
+    },
+    {
+      "description": "spindle",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 703,
+          "y": 471
+        },
+        {
+          "x": 839,
+          "y": 471
+        },
+        {
+          "x": 839,
+          "y": 502
+        },
+        {
+          "x": 703,
+          "y": 502
+        }
+      ]
+    },
+    {
+      "description": "or",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 362,
+          "y": 503
+        },
+        {
+          "x": 400,
+          "y": 503
+        },
+        {
+          "x": 400,
+          "y": 531
+        },
+        {
+          "x": 362,
+          "y": 531
+        }
+      ]
+    },
+    {
+      "description": "lever",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 423,
+          "y": 503
+        },
+        {
+          "x": 520,
+          "y": 503
+        },
+        {
+          "x": 520,
+          "y": 530
+        },
+        {
+          "x": 423,
+          "y": 530
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 523,
+          "y": 503
+        },
+        {
+          "x": 536,
+          "y": 503
+        },
+        {
+          "x": 536,
+          "y": 530
+        },
+        {
+          "x": 523,
+          "y": 530
+        }
+      ]
+    },
+    {
+      "description": "Vertical",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 81,
+          "y": 538
+        },
+        {
+          "x": 242,
+          "y": 538
+        },
+        {
+          "x": 242,
+          "y": 571
+        },
+        {
+          "x": 81,
+          "y": 571
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 267,
+          "y": 538
+        },
+        {
+          "x": 280,
+          "y": 538
+        },
+        {
+          "x": 280,
+          "y": 571
+        },
+        {
+          "x": 267,
+          "y": 571
+        }
+      ]
+    },
+    {
+      "description": "by",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 284,
+          "y": 538
+        },
+        {
+          "x": 324,
+          "y": 538
+        },
+        {
+          "x": 324,
+          "y": 571
+        },
+        {
+          "x": 284,
+          "y": 571
+        }
+      ]
+    },
+    {
+      "description": "feed",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 343,
+          "y": 538
+        },
+        {
+          "x": 420,
+          "y": 538
+        },
+        {
+          "x": 420,
+          "y": 571
+        },
+        {
+          "x": 343,
+          "y": 571
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 423,
+          "y": 538
+        },
+        {
+          "x": 440,
+          "y": 538
+        },
+        {
+          "x": 440,
+          "y": 571
+        },
+        {
+          "x": 423,
+          "y": 571
+        }
+      ]
+    },
+    {
+      "description": "spindle",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 444,
+          "y": 538
+        },
+        {
+          "x": 582,
+          "y": 538
+        },
+        {
+          "x": 582,
+          "y": 571
+        },
+        {
+          "x": 444,
+          "y": 571
+        }
+      ]
+    },
+    {
+      "description": "only",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 602,
+          "y": 538
+        },
+        {
+          "x": 682,
+          "y": 538
+        },
+        {
+          "x": 682,
+          "y": 571
+        },
+        {
+          "x": 602,
+          "y": 571
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 683,
+          "y": 538
+        },
+        {
+          "x": 695,
+          "y": 538
+        },
+        {
+          "x": 695,
+          "y": 571
+        },
+        {
+          "x": 683,
+          "y": 571
+        }
+      ]
+    },
+    {
+      "description": "3.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 25,
+          "y": 628
+        },
+        {
+          "x": 59,
+          "y": 628
+        },
+        {
+          "x": 59,
+          "y": 656
+        },
+        {
+          "x": 25,
+          "y": 656
+        }
+      ]
+    },
+    {
+      "description": "AUTOMATIC",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 79,
+          "y": 628
+        },
+        {
+          "x": 261,
+          "y": 627
+        },
+        {
+          "x": 261,
+          "y": 655
+        },
+        {
+          "x": 79,
+          "y": 656
+        }
+      ]
+    },
+    {
+      "description": "TABLE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 282,
+          "y": 627
+        },
+        {
+          "x": 378,
+          "y": 627
+        },
+        {
+          "x": 378,
+          "y": 654
+        },
+        {
+          "x": 282,
+          "y": 654
+        }
+      ]
+    },
+    {
+      "description": "MOVEMENTS",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 399,
+          "y": 627
+        },
+        {
+          "x": 577,
+          "y": 626
+        },
+        {
+          "x": 577,
+          "y": 653
+        },
+        {
+          "x": 399,
+          "y": 654
+        }
+      ]
+    },
+    {
+      "description": "8",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 84,
+          "y": 681
+        },
+        {
+          "x": 101,
+          "y": 681
+        },
+        {
+          "x": 101,
+          "y": 708
+        },
+        {
+          "x": 84,
+          "y": 708
+        }
+      ]
+    },
+    {
+      "description": "longitudinal",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 124,
+          "y": 680
+        },
+        {
+          "x": 361,
+          "y": 679
+        },
+        {
+          "x": 361,
+          "y": 707
+        },
+        {
+          "x": 124,
+          "y": 708
+        }
+      ]
+    },
+    {
+      "description": "feeds",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 383,
+          "y": 679
+        },
+        {
+          "x": 477,
+          "y": 679
+        },
+        {
+          "x": 477,
+          "y": 706
+        },
+        {
+          "x": 383,
+          "y": 706
+        }
+      ]
+    },
+    {
+      "description": "8",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 84,
+          "y": 714
+        },
+        {
+          "x": 101,
+          "y": 714
+        },
+        {
+          "x": 101,
+          "y": 738
+        },
+        {
+          "x": 84,
+          "y": 738
+        }
+      ]
+    },
+    {
+      "description": "vertical",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 124,
+          "y": 714
+        },
+        {
+          "x": 283,
+          "y": 714
+        },
+        {
+          "x": 283,
+          "y": 738
+        },
+        {
+          "x": 124,
+          "y": 738
+        }
+      ]
+    },
+    {
+      "description": "feeds",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 304,
+          "y": 714
+        },
+        {
+          "x": 399,
+          "y": 714
+        },
+        {
+          "x": 399,
+          "y": 738
+        },
+        {
+          "x": 304,
+          "y": 738
+        }
+      ]
+    },
+    {
+      "description": "4.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 24,
+          "y": 803
+        },
+        {
+          "x": 59,
+          "y": 803
+        },
+        {
+          "x": 59,
+          "y": 830
+        },
+        {
+          "x": 24,
+          "y": 830
+        }
+      ]
+    },
+    {
+      "description": "HIGH",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 82,
+          "y": 803
+        },
+        {
+          "x": 162,
+          "y": 802
+        },
+        {
+          "x": 162,
+          "y": 828
+        },
+        {
+          "x": 82,
+          "y": 829
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 166,
+          "y": 802
+        },
+        {
+          "x": 183,
+          "y": 802
+        },
+        {
+          "x": 183,
+          "y": 828
+        },
+        {
+          "x": 166,
+          "y": 828
+        }
+      ]
+    },
+    {
+      "description": "SPEED",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 180,
+          "y": 802
+        },
+        {
+          "x": 283,
+          "y": 801
+        },
+        {
+          "x": 283,
+          "y": 828
+        },
+        {
+          "x": 180,
+          "y": 829
+        }
+      ]
+    },
+    {
+      "description": "TABLE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 302,
+          "y": 801
+        },
+        {
+          "x": 400,
+          "y": 800
+        },
+        {
+          "x": 400,
+          "y": 827
+        },
+        {
+          "x": 302,
+          "y": 828
+        }
+      ]
+    },
+    {
+      "description": "FEED",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 424,
+          "y": 800
+        },
+        {
+          "x": 502,
+          "y": 799
+        },
+        {
+          "x": 502,
+          "y": 825
+        },
+        {
+          "x": 424,
+          "y": 826
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 87,
+          "y": 850
+        },
+        {
+          "x": 101,
+          "y": 850
+        },
+        {
+          "x": 101,
+          "y": 883
+        },
+        {
+          "x": 87,
+          "y": 883
+        }
+      ]
+    },
+    {
+      "description": "only",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 103,
+          "y": 849
+        },
+        {
+          "x": 183,
+          "y": 849
+        },
+        {
+          "x": 183,
+          "y": 882
+        },
+        {
+          "x": 103,
+          "y": 882
+        }
+      ]
+    },
+    {
+      "description": "if",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 203,
+          "y": 849
+        },
+        {
+          "x": 241,
+          "y": 849
+        },
+        {
+          "x": 241,
+          "y": 882
+        },
+        {
+          "x": 203,
+          "y": 882
+        }
+      ]
+    },
+    {
+      "description": "specially",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 264,
+          "y": 848
+        },
+        {
+          "x": 441,
+          "y": 847
+        },
+        {
+          "x": 441,
+          "y": 881
+        },
+        {
+          "x": 264,
+          "y": 882
+        }
+      ]
+    },
+    {
+      "description": "ordered",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 463,
+          "y": 847
+        },
+        {
+          "x": 601,
+          "y": 846
+        },
+        {
+          "x": 601,
+          "y": 880
+        },
+        {
+          "x": 463,
+          "y": 881
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 603,
+          "y": 847
+        },
+        {
+          "x": 615,
+          "y": 847
+        },
+        {
+          "x": 615,
+          "y": 880
+        },
+        {
+          "x": 603,
+          "y": 880
+        }
+      ]
+    },
+    {
+      "description": "Longitudinal",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 85,
+          "y": 922
+        },
+        {
+          "x": 320,
+          "y": 920
+        },
+        {
+          "x": 320,
+          "y": 950
+        },
+        {
+          "x": 85,
+          "y": 952
+        }
+      ]
+    },
+    {
+      "description": "and",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 344,
+          "y": 920
+        },
+        {
+          "x": 401,
+          "y": 919
+        },
+        {
+          "x": 401,
+          "y": 948
+        },
+        {
+          "x": 344,
+          "y": 949
+        }
+      ]
+    },
+    {
+      "description": "vertical",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 424,
+          "y": 919
+        },
+        {
+          "x": 582,
+          "y": 917
+        },
+        {
+          "x": 582,
+          "y": 947
+        },
+        {
+          "x": 424,
+          "y": 949
+        }
+      ]
+    },
+    {
+      "description": "5.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 25,
+          "y": 1007
+        },
+        {
+          "x": 60,
+          "y": 1007
+        },
+        {
+          "x": 60,
+          "y": 1036
+        },
+        {
+          "x": 25,
+          "y": 1036
+        }
+      ]
+    },
+    {
+      "description": "SPINDLE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 82,
+          "y": 1007
+        },
+        {
+          "x": 222,
+          "y": 1006
+        },
+        {
+          "x": 222,
+          "y": 1035
+        },
+        {
+          "x": 82,
+          "y": 1036
+        }
+      ]
+    },
+    {
+      "description": "HEAD",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 242,
+          "y": 1006
+        },
+        {
+          "x": 323,
+          "y": 1006
+        },
+        {
+          "x": 323,
+          "y": 1035
+        },
+        {
+          "x": 242,
+          "y": 1035
+        }
+      ]
+    },
+    {
+      "description": "Axial",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 82,
+          "y": 1055
+        },
+        {
+          "x": 185,
+          "y": 1055
+        },
+        {
+          "x": 185,
+          "y": 1087
+        },
+        {
+          "x": 82,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": "stroke",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 205,
+          "y": 1055
+        },
+        {
+          "x": 322,
+          "y": 1055
+        },
+        {
+          "x": 322,
+          "y": 1087
+        },
+        {
+          "x": 205,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 349,
+          "y": 1055
+        },
+        {
+          "x": 361,
+          "y": 1055
+        },
+        {
+          "x": 361,
+          "y": 1087
+        },
+        {
+          "x": 349,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": "by",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 366,
+          "y": 1055
+        },
+        {
+          "x": 404,
+          "y": 1055
+        },
+        {
+          "x": 404,
+          "y": 1087
+        },
+        {
+          "x": 366,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": "feed",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 425,
+          "y": 1055
+        },
+        {
+          "x": 502,
+          "y": 1055
+        },
+        {
+          "x": 502,
+          "y": 1087
+        },
+        {
+          "x": 425,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 504,
+          "y": 1055
+        },
+        {
+          "x": 523,
+          "y": 1055
+        },
+        {
+          "x": 523,
+          "y": 1087
+        },
+        {
+          "x": 504,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": "spindle",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 524,
+          "y": 1055
+        },
+        {
+          "x": 660,
+          "y": 1055
+        },
+        {
+          "x": 660,
+          "y": 1087
+        },
+        {
+          "x": 524,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": "or",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 683,
+          "y": 1055
+        },
+        {
+          "x": 720,
+          "y": 1055
+        },
+        {
+          "x": 720,
+          "y": 1087
+        },
+        {
+          "x": 683,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": "lever",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 744,
+          "y": 1055
+        },
+        {
+          "x": 842,
+          "y": 1055
+        },
+        {
+          "x": 842,
+          "y": 1087
+        },
+        {
+          "x": 744,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 843,
+          "y": 1055
+        },
+        {
+          "x": 856,
+          "y": 1055
+        },
+        {
+          "x": 856,
+          "y": 1087
+        },
+        {
+          "x": 843,
+          "y": 1087
+        }
+      ]
+    },
+    {
+      "description": "External",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 84,
+          "y": 1091
+        },
+        {
+          "x": 242,
+          "y": 1092
+        },
+        {
+          "x": 242,
+          "y": 1120
+        },
+        {
+          "x": 84,
+          "y": 1119
+        }
+      ]
+    },
+    {
+      "description": "diam",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 265,
+          "y": 1092
+        },
+        {
+          "x": 344,
+          "y": 1092
+        },
+        {
+          "x": 344,
+          "y": 1119
+        },
+        {
+          "x": 265,
+          "y": 1119
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 350,
+          "y": 1092
+        },
+        {
+          "x": 359,
+          "y": 1092
+        },
+        {
+          "x": 359,
+          "y": 1119
+        },
+        {
+          "x": 350,
+          "y": 1119
+        }
+      ]
+    },
+    {
+      "description": "of",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 385,
+          "y": 1093
+        },
+        {
+          "x": 421,
+          "y": 1093
+        },
+        {
+          "x": 421,
+          "y": 1120
+        },
+        {
+          "x": 385,
+          "y": 1120
+        }
+      ]
+    },
+    {
+      "description": "spindle",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 446,
+          "y": 1093
+        },
+        {
+          "x": 582,
+          "y": 1094
+        },
+        {
+          "x": 582,
+          "y": 1121
+        },
+        {
+          "x": 446,
+          "y": 1120
+        }
+      ]
+    },
+    {
+      "description": "nose",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 604,
+          "y": 1093
+        },
+        {
+          "x": 682,
+          "y": 1093
+        },
+        {
+          "x": 682,
+          "y": 1121
+        },
+        {
+          "x": 604,
+          "y": 1121
+        }
+      ]
+    },
+    {
+      "description": "Internal",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 86,
+          "y": 1125
+        },
+        {
+          "x": 243,
+          "y": 1127
+        },
+        {
+          "x": 243,
+          "y": 1154
+        },
+        {
+          "x": 86,
+          "y": 1152
+        }
+      ]
+    },
+    {
+      "description": "taper",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 266,
+          "y": 1128
+        },
+        {
+          "x": 363,
+          "y": 1129
+        },
+        {
+          "x": 363,
+          "y": 1155
+        },
+        {
+          "x": 266,
+          "y": 1154
+        }
+      ]
+    },
+    {
+      "description": "6.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 24,
+          "y": 1281
+        },
+        {
+          "x": 61,
+          "y": 1281
+        },
+        {
+          "x": 61,
+          "y": 1309
+        },
+        {
+          "x": 24,
+          "y": 1309
+        }
+      ]
+    },
+    {
+      "description": "SPINDLE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 84,
+          "y": 1280
+        },
+        {
+          "x": 221,
+          "y": 1281
+        },
+        {
+          "x": 221,
+          "y": 1310
+        },
+        {
+          "x": 84,
+          "y": 1309
+        }
+      ]
+    },
+    {
+      "description": "SPEEDS",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 243,
+          "y": 1282
+        },
+        {
+          "x": 361,
+          "y": 1283
+        },
+        {
+          "x": 361,
+          "y": 1311
+        },
+        {
+          "x": 243,
+          "y": 1310
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 87,
+          "y": 1334
+        },
+        {
+          "x": 102,
+          "y": 1334
+        },
+        {
+          "x": 102,
+          "y": 1366
+        },
+        {
+          "x": 87,
+          "y": 1366
+        }
+      ]
+    },
+    {
+      "description": "by",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 105,
+          "y": 1333
+        },
+        {
+          "x": 144,
+          "y": 1333
+        },
+        {
+          "x": 144,
+          "y": 1365
+        },
+        {
+          "x": 105,
+          "y": 1365
+        }
+      ]
+    },
+    {
+      "description": "infinitely",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 165,
+          "y": 1333
+        },
+        {
+          "x": 364,
+          "y": 1332
+        },
+        {
+          "x": 364,
+          "y": 1365
+        },
+        {
+          "x": 165,
+          "y": 1366
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 365,
+          "y": 1332
+        },
+        {
+          "x": 381,
+          "y": 1332
+        },
+        {
+          "x": 381,
+          "y": 1364
+        },
+        {
+          "x": 365,
+          "y": 1364
+        }
+      ]
+    },
+    {
+      "description": "variable",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 385,
+          "y": 1332
+        },
+        {
+          "x": 540,
+          "y": 1331
+        },
+        {
+          "x": 540,
+          "y": 1364
+        },
+        {
+          "x": 385,
+          "y": 1365
+        }
+      ]
+    },
+    {
+      "description": "gear",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 565,
+          "y": 1331
+        },
+        {
+          "x": 639,
+          "y": 1331
+        },
+        {
+          "x": 639,
+          "y": 1364
+        },
+        {
+          "x": 565,
+          "y": 1364
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 643,
+          "y": 1331
+        },
+        {
+          "x": 655,
+          "y": 1331
+        },
+        {
+          "x": 655,
+          "y": 1363
+        },
+        {
+          "x": 643,
+          "y": 1363
+        }
+      ]
+    },
+    {
+      "description": "7.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 24,
+          "y": 1422
+        },
+        {
+          "x": 60,
+          "y": 1422
+        },
+        {
+          "x": 60,
+          "y": 1450
+        },
+        {
+          "x": 24,
+          "y": 1450
+        }
+      ]
+    },
+    {
+      "description": "SPINDLE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 83,
+          "y": 1422
+        },
+        {
+          "x": 223,
+          "y": 1421
+        },
+        {
+          "x": 223,
+          "y": 1449
+        },
+        {
+          "x": 83,
+          "y": 1450
+        }
+      ]
+    },
+    {
+      "description": "DRIVE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 244,
+          "y": 1421
+        },
+        {
+          "x": 340,
+          "y": 1421
+        },
+        {
+          "x": 340,
+          "y": 1449
+        },
+        {
+          "x": 244,
+          "y": 1449
+        }
+      ]
+    },
+    {
+      "description": "MOTOR",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 362,
+          "y": 1421
+        },
+        {
+          "x": 464,
+          "y": 1421
+        },
+        {
+          "x": 464,
+          "y": 1448
+        },
+        {
+          "x": 362,
+          "y": 1448
+        }
+      ]
+    },
+    {
+      "description": "Power",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 84,
+          "y": 1474
+        },
+        {
+          "x": 182,
+          "y": 1473
+        },
+        {
+          "x": 182,
+          "y": 1495
+        },
+        {
+          "x": 84,
+          "y": 1496
+        }
+      ]
+    },
+    {
+      "description": "Speed",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 84,
+          "y": 1507
+        },
+        {
+          "x": 183,
+          "y": 1507
+        },
+        {
+          "x": 183,
+          "y": 1535
+        },
+        {
+          "x": 84,
+          "y": 1535
+        }
+      ]
+    },
+    {
+      "description": "8.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 25,
+          "y": 1588
+        },
+        {
+          "x": 62,
+          "y": 1588
+        },
+        {
+          "x": 62,
+          "y": 1622
+        },
+        {
+          "x": 25,
+          "y": 1622
+        }
+      ]
+    },
+    {
+      "description": "Approximate",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 82,
+          "y": 1588
+        },
+        {
+          "x": 301,
+          "y": 1587
+        },
+        {
+          "x": 301,
+          "y": 1621
+        },
+        {
+          "x": 82,
+          "y": 1622
+        }
+      ]
+    },
+    {
+      "description": "net",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 324,
+          "y": 1587
+        },
+        {
+          "x": 381,
+          "y": 1587
+        },
+        {
+          "x": 381,
+          "y": 1620
+        },
+        {
+          "x": 324,
+          "y": 1620
+        }
+      ]
+    },
+    {
+      "description": "weight",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 403,
+          "y": 1587
+        },
+        {
+          "x": 521,
+          "y": 1587
+        },
+        {
+          "x": 521,
+          "y": 1620
+        },
+        {
+          "x": 403,
+          "y": 1620
+        }
+      ]
+    },
+    {
+      "description": "of",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 545,
+          "y": 1586
+        },
+        {
+          "x": 582,
+          "y": 1586
+        },
+        {
+          "x": 582,
+          "y": 1619
+        },
+        {
+          "x": 545,
+          "y": 1619
+        }
+      ]
+    },
+    {
+      "description": "machine",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 603,
+          "y": 1586
+        },
+        {
+          "x": 741,
+          "y": 1585
+        },
+        {
+          "x": 741,
+          "y": 1618
+        },
+        {
+          "x": 603,
+          "y": 1619
+        }
+      ]
+    },
+    {
+      "description": "Space",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 85,
+          "y": 1695
+        },
+        {
+          "x": 186,
+          "y": 1695
+        },
+        {
+          "x": 186,
+          "y": 1727
+        },
+        {
+          "x": 85,
+          "y": 1727
+        }
+      ]
+    },
+    {
+      "description": "required",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 206,
+          "y": 1695
+        },
+        {
+          "x": 363,
+          "y": 1695
+        },
+        {
+          "x": 363,
+          "y": 1727
+        },
+        {
+          "x": 206,
+          "y": 1727
+        }
+      ]
+    },
+    {
+      "description": ";",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 372,
+          "y": 1695
+        },
+        {
+          "x": 379,
+          "y": 1695
+        },
+        {
+          "x": 379,
+          "y": 1727
+        },
+        {
+          "x": 372,
+          "y": 1727
+        }
+      ]
+    },
+    {
+      "description": "length",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 407,
+          "y": 1695
+        },
+        {
+          "x": 525,
+          "y": 1695
+        },
+        {
+          "x": 525,
+          "y": 1727
+        },
+        {
+          "x": 407,
+          "y": 1727
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 532,
+          "y": 1695
+        },
+        {
+          "x": 539,
+          "y": 1695
+        },
+        {
+          "x": 539,
+          "y": 1727
+        },
+        {
+          "x": 532,
+          "y": 1727
+        }
+      ]
+    },
+    {
+      "description": "depth",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 566,
+          "y": 1695
+        },
+        {
+          "x": 664,
+          "y": 1695
+        },
+        {
+          "x": 664,
+          "y": 1727
+        },
+        {
+          "x": 566,
+          "y": 1727
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 672,
+          "y": 1695
+        },
+        {
+          "x": 679,
+          "y": 1695
+        },
+        {
+          "x": 679,
+          "y": 1727
+        },
+        {
+          "x": 672,
+          "y": 1727
+        }
+      ]
+    },
+    {
+      "description": "height",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 706,
+          "y": 1695
+        },
+        {
+          "x": 820,
+          "y": 1695
+        },
+        {
+          "x": 820,
+          "y": 1727
+        },
+        {
+          "x": 706,
+          "y": 1727
+        }
+      ]
+    },
+    {
+      "description": ":",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 850,
+          "y": 1695
+        },
+        {
+          "x": 861,
+          "y": 1695
+        },
+        {
+          "x": 861,
+          "y": 1727
+        },
+        {
+          "x": 850,
+          "y": 1727
+        }
+      ]
+    },
+    {
+      "description": "IN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 49,
+          "y": 2089
+        },
+        {
+          "x": 88,
+          "y": 2091
+        },
+        {
+          "x": 87,
+          "y": 2117
+        },
+        {
+          "x": 48,
+          "y": 2115
+        }
+      ]
+    },
+    {
+      "description": "13",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 109,
+          "y": 2092
+        },
+        {
+          "x": 150,
+          "y": 2094
+        },
+        {
+          "x": 149,
+          "y": 2119
+        },
+        {
+          "x": 108,
+          "y": 2117
+        }
+      ]
+    },
+    {
+      "description": "600",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 921,
+          "y": 224
+        },
+        {
+          "x": 979,
+          "y": 225
+        },
+        {
+          "x": 978,
+          "y": 250
+        },
+        {
+          "x": 921,
+          "y": 249
+        }
+      ]
+    },
+    {
+      "description": "x",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1001,
+          "y": 226
+        },
+        {
+          "x": 1019,
+          "y": 226
+        },
+        {
+          "x": 1019,
+          "y": 250
+        },
+        {
+          "x": 1001,
+          "y": 250
+        }
+      ]
+    },
+    {
+      "description": "210",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1041,
+          "y": 227
+        },
+        {
+          "x": 1098,
+          "y": 228
+        },
+        {
+          "x": 1098,
+          "y": 252
+        },
+        {
+          "x": 1041,
+          "y": 251
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1119,
+          "y": 228
+        },
+        {
+          "x": 1158,
+          "y": 229
+        },
+        {
+          "x": 1158,
+          "y": 254
+        },
+        {
+          "x": 1119,
+          "y": 253
+        }
+      ]
+    },
+    {
+      "description": "4",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 921,
+          "y": 265
+        },
+        {
+          "x": 940,
+          "y": 265
+        },
+        {
+          "x": 940,
+          "y": 285
+        },
+        {
+          "x": 921,
+          "y": 285
+        }
+      ]
+    },
+    {
+      "description": "12",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 922,
+          "y": 297
+        },
+        {
+          "x": 960,
+          "y": 298
+        },
+        {
+          "x": 959,
+          "y": 320
+        },
+        {
+          "x": 921,
+          "y": 319
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 980,
+          "y": 299
+        },
+        {
+          "x": 1019,
+          "y": 300
+        },
+        {
+          "x": 1018,
+          "y": 322
+        },
+        {
+          "x": 979,
+          "y": 321
+        }
+      ]
+    },
+    {
+      "description": "40",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 922,
+          "y": 333
+        },
+        {
+          "x": 959,
+          "y": 335
+        },
+        {
+          "x": 958,
+          "y": 355
+        },
+        {
+          "x": 921,
+          "y": 353
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 980,
+          "y": 336
+        },
+        {
+          "x": 1020,
+          "y": 338
+        },
+        {
+          "x": 1019,
+          "y": 357
+        },
+        {
+          "x": 979,
+          "y": 355
+        }
+      ]
+    },
+    {
+      "description": "Spindle",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 84,
+          "y": 1164
+        },
+        {
+          "x": 222,
+          "y": 1161
+        },
+        {
+          "x": 223,
+          "y": 1191
+        },
+        {
+          "x": 85,
+          "y": 1194
+        }
+      ]
+    },
+    {
+      "description": "bore",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 245,
+          "y": 1160
+        },
+        {
+          "x": 323,
+          "y": 1158
+        },
+        {
+          "x": 324,
+          "y": 1188
+        },
+        {
+          "x": 246,
+          "y": 1190
+        }
+      ]
+    },
+    {
+      "description": "Diameter",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 84,
+          "y": 1190
+        },
+        {
+          "x": 244,
+          "y": 1190
+        },
+        {
+          "x": 244,
+          "y": 1224
+        },
+        {
+          "x": 84,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "of",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 265,
+          "y": 1190
+        },
+        {
+          "x": 306,
+          "y": 1190
+        },
+        {
+          "x": 306,
+          "y": 1224
+        },
+        {
+          "x": 265,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "cutter",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 326,
+          "y": 1190
+        },
+        {
+          "x": 441,
+          "y": 1190
+        },
+        {
+          "x": 441,
+          "y": 1224
+        },
+        {
+          "x": 326,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "arbors",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 466,
+          "y": 1190
+        },
+        {
+          "x": 580,
+          "y": 1190
+        },
+        {
+          "x": 580,
+          "y": 1224
+        },
+        {
+          "x": 466,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 590,
+          "y": 1190
+        },
+        {
+          "x": 599,
+          "y": 1190
+        },
+        {
+          "x": 599,
+          "y": 1224
+        },
+        {
+          "x": 590,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "long",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 625,
+          "y": 1190
+        },
+        {
+          "x": 701,
+          "y": 1190
+        },
+        {
+          "x": 701,
+          "y": 1224
+        },
+        {
+          "x": 625,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "and",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 724,
+          "y": 1190
+        },
+        {
+          "x": 781,
+          "y": 1190
+        },
+        {
+          "x": 781,
+          "y": 1224
+        },
+        {
+          "x": 724,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "short",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 803,
+          "y": 1190
+        },
+        {
+          "x": 900,
+          "y": 1190
+        },
+        {
+          "x": 900,
+          "y": 1224
+        },
+        {
+          "x": 803,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "13-16-22-25,4-27",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 924,
+          "y": 1190
+        },
+        {
+          "x": 1239,
+          "y": 1190
+        },
+        {
+          "x": 1239,
+          "y": 1224
+        },
+        {
+          "x": 924,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1260,
+          "y": 1190
+        },
+        {
+          "x": 1302,
+          "y": 1190
+        },
+        {
+          "x": 1302,
+          "y": 1224
+        },
+        {
+          "x": 1260,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "260",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 923,
+          "y": 502
+        },
+        {
+          "x": 981,
+          "y": 504
+        },
+        {
+          "x": 980,
+          "y": 531
+        },
+        {
+          "x": 922,
+          "y": 529
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1000,
+          "y": 505
+        },
+        {
+          "x": 1044,
+          "y": 507
+        },
+        {
+          "x": 1043,
+          "y": 534
+        },
+        {
+          "x": 999,
+          "y": 532
+        }
+      ]
+    },
+    {
+      "description": "310",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 921,
+          "y": 541
+        },
+        {
+          "x": 979,
+          "y": 540
+        },
+        {
+          "x": 979,
+          "y": 568
+        },
+        {
+          "x": 921,
+          "y": 569
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 997,
+          "y": 540
+        },
+        {
+          "x": 1041,
+          "y": 540
+        },
+        {
+          "x": 1041,
+          "y": 568
+        },
+        {
+          "x": 997,
+          "y": 568
+        }
+      ]
+    },
+    {
+      "description": "11",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 921,
+          "y": 678
+        },
+        {
+          "x": 961,
+          "y": 678
+        },
+        {
+          "x": 961,
+          "y": 703
+        },
+        {
+          "x": 921,
+          "y": 703
+        }
+      ]
+    },
+    {
+      "description": "to",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 982,
+          "y": 678
+        },
+        {
+          "x": 1017,
+          "y": 678
+        },
+        {
+          "x": 1017,
+          "y": 703
+        },
+        {
+          "x": 982,
+          "y": 703
+        }
+      ]
+    },
+    {
+      "description": "210",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1042,
+          "y": 678
+        },
+        {
+          "x": 1099,
+          "y": 678
+        },
+        {
+          "x": 1099,
+          "y": 703
+        },
+        {
+          "x": 1042,
+          "y": 703
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1120,
+          "y": 678
+        },
+        {
+          "x": 1162,
+          "y": 678
+        },
+        {
+          "x": 1162,
+          "y": 703
+        },
+        {
+          "x": 1120,
+          "y": 703
+        }
+      ]
+    },
+    {
+      "description": "/",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1161,
+          "y": 678
+        },
+        {
+          "x": 1179,
+          "y": 678
+        },
+        {
+          "x": 1179,
+          "y": 703
+        },
+        {
+          "x": 1161,
+          "y": 703
+        }
+      ]
+    },
+    {
+      "description": "min",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1177,
+          "y": 678
+        },
+        {
+          "x": 1238,
+          "y": 678
+        },
+        {
+          "x": 1238,
+          "y": 703
+        },
+        {
+          "x": 1177,
+          "y": 703
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1244,
+          "y": 678
+        },
+        {
+          "x": 1256,
+          "y": 678
+        },
+        {
+          "x": 1256,
+          "y": 703
+        },
+        {
+          "x": 1244,
+          "y": 703
+        }
+      ]
+    },
+    {
+      "description": "11",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 922,
+          "y": 712
+        },
+        {
+          "x": 961,
+          "y": 712
+        },
+        {
+          "x": 961,
+          "y": 737
+        },
+        {
+          "x": 922,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": "to",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 983,
+          "y": 712
+        },
+        {
+          "x": 1017,
+          "y": 712
+        },
+        {
+          "x": 1017,
+          "y": 737
+        },
+        {
+          "x": 983,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": "210",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1042,
+          "y": 712
+        },
+        {
+          "x": 1098,
+          "y": 712
+        },
+        {
+          "x": 1098,
+          "y": 737
+        },
+        {
+          "x": 1042,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1119,
+          "y": 712
+        },
+        {
+          "x": 1159,
+          "y": 712
+        },
+        {
+          "x": 1159,
+          "y": 737
+        },
+        {
+          "x": 1119,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": "/",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1162,
+          "y": 712
+        },
+        {
+          "x": 1180,
+          "y": 712
+        },
+        {
+          "x": 1180,
+          "y": 737
+        },
+        {
+          "x": 1162,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": "min",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1178,
+          "y": 712
+        },
+        {
+          "x": 1237,
+          "y": 712
+        },
+        {
+          "x": 1237,
+          "y": 737
+        },
+        {
+          "x": 1178,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1245,
+          "y": 712
+        },
+        {
+          "x": 1256,
+          "y": 712
+        },
+        {
+          "x": 1256,
+          "y": 737
+        },
+        {
+          "x": 1245,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": "1000",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 923,
+          "y": 920
+        },
+        {
+          "x": 1000,
+          "y": 920
+        },
+        {
+          "x": 1000,
+          "y": 943
+        },
+        {
+          "x": 923,
+          "y": 943
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1021,
+          "y": 920
+        },
+        {
+          "x": 1061,
+          "y": 920
+        },
+        {
+          "x": 1061,
+          "y": 943
+        },
+        {
+          "x": 1021,
+          "y": 943
+        }
+      ]
+    },
+    {
+      "description": "/",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1062,
+          "y": 920
+        },
+        {
+          "x": 1078,
+          "y": 920
+        },
+        {
+          "x": 1078,
+          "y": 943
+        },
+        {
+          "x": 1062,
+          "y": 943
+        }
+      ]
+    },
+    {
+      "description": "min",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1080,
+          "y": 920
+        },
+        {
+          "x": 1139,
+          "y": 920
+        },
+        {
+          "x": 1139,
+          "y": 943
+        },
+        {
+          "x": 1080,
+          "y": 943
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1144,
+          "y": 920
+        },
+        {
+          "x": 1157,
+          "y": 920
+        },
+        {
+          "x": 1157,
+          "y": 943
+        },
+        {
+          "x": 1144,
+          "y": 943
+        }
+      ]
+    },
+    {
+      "description": "150",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 923,
+          "y": 1057
+        },
+        {
+          "x": 981,
+          "y": 1058
+        },
+        {
+          "x": 980,
+          "y": 1083
+        },
+        {
+          "x": 922,
+          "y": 1082
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1000,
+          "y": 1059
+        },
+        {
+          "x": 1042,
+          "y": 1060
+        },
+        {
+          "x": 1041,
+          "y": 1084
+        },
+        {
+          "x": 999,
+          "y": 1083
+        }
+      ]
+    },
+    {
+      "description": "69,832",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 923,
+          "y": 1088
+        },
+        {
+          "x": 1039,
+          "y": 1087
+        },
+        {
+          "x": 1039,
+          "y": 1120
+        },
+        {
+          "x": 923,
+          "y": 1121
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1058,
+          "y": 1087
+        },
+        {
+          "x": 1100,
+          "y": 1087
+        },
+        {
+          "x": 1100,
+          "y": 1120
+        },
+        {
+          "x": 1058,
+          "y": 1120
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1124,
+          "y": 1087
+        },
+        {
+          "x": 1138,
+          "y": 1087
+        },
+        {
+          "x": 1138,
+          "y": 1119
+        },
+        {
+          "x": 1124,
+          "y": 1119
+        }
+      ]
+    },
+    {
+      "description": "23",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1143,
+          "y": 1087
+        },
+        {
+          "x": 1201,
+          "y": 1087
+        },
+        {
+          "x": 1201,
+          "y": 1119
+        },
+        {
+          "x": 1143,
+          "y": 1119
+        }
+      ]
+    },
+    {
+      "description": "\"",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1201,
+          "y": 1086
+        },
+        {
+          "x": 1219,
+          "y": 1086
+        },
+        {
+          "x": 1219,
+          "y": 1118
+        },
+        {
+          "x": 1201,
+          "y": 1118
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1219,
+          "y": 1086
+        },
+        {
+          "x": 1234,
+          "y": 1086
+        },
+        {
+          "x": 1234,
+          "y": 1118
+        },
+        {
+          "x": 1219,
+          "y": 1118
+        }
+      ]
+    },
+    {
+      "description": "ASA",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 920,
+          "y": 1125
+        },
+        {
+          "x": 982,
+          "y": 1125
+        },
+        {
+          "x": 982,
+          "y": 1153
+        },
+        {
+          "x": 920,
+          "y": 1153
+        }
+      ]
+    },
+    {
+      "description": "B5",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1000,
+          "y": 1125
+        },
+        {
+          "x": 1041,
+          "y": 1125
+        },
+        {
+          "x": 1041,
+          "y": 1153
+        },
+        {
+          "x": 1000,
+          "y": 1153
+        }
+      ]
+    },
+    {
+      "description": "18-1943",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1064,
+          "y": 1125
+        },
+        {
+          "x": 1203,
+          "y": 1125
+        },
+        {
+          "x": 1203,
+          "y": 1153
+        },
+        {
+          "x": 1064,
+          "y": 1153
+        }
+      ]
+    },
+    {
+      "description": "N",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1220,
+          "y": 1125
+        },
+        {
+          "x": 1242,
+          "y": 1125
+        },
+        {
+          "x": 1242,
+          "y": 1153
+        },
+        {
+          "x": 1220,
+          "y": 1153
+        }
+      ]
+    },
+    {
+      "description": "\u00b0",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1242,
+          "y": 1125
+        },
+        {
+          "x": 1258,
+          "y": 1125
+        },
+        {
+          "x": 1258,
+          "y": 1153
+        },
+        {
+          "x": 1242,
+          "y": 1153
+        }
+      ]
+    },
+    {
+      "description": "30",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1283,
+          "y": 1125
+        },
+        {
+          "x": 1319,
+          "y": 1125
+        },
+        {
+          "x": 1319,
+          "y": 1153
+        },
+        {
+          "x": 1283,
+          "y": 1153
+        }
+      ]
+    },
+    {
+      "description": "15",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 923,
+          "y": 1163
+        },
+        {
+          "x": 965,
+          "y": 1163
+        },
+        {
+          "x": 965,
+          "y": 1189
+        },
+        {
+          "x": 923,
+          "y": 1189
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 982,
+          "y": 1163
+        },
+        {
+          "x": 1022,
+          "y": 1163
+        },
+        {
+          "x": 1022,
+          "y": 1189
+        },
+        {
+          "x": 982,
+          "y": 1189
+        }
+      ]
+    },
+    {
+      "description": "56",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 922,
+          "y": 1331
+        },
+        {
+          "x": 964,
+          "y": 1331
+        },
+        {
+          "x": 964,
+          "y": 1361
+        },
+        {
+          "x": 922,
+          "y": 1361
+        }
+      ]
+    },
+    {
+      "description": "2100",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1024,
+          "y": 1332
+        },
+        {
+          "x": 1100,
+          "y": 1335
+        },
+        {
+          "x": 1099,
+          "y": 1361
+        },
+        {
+          "x": 1023,
+          "y": 1358
+        }
+      ]
+    },
+    {
+      "description": "r.p.m.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1123,
+          "y": 1335
+        },
+        {
+          "x": 1236,
+          "y": 1339
+        },
+        {
+          "x": 1235,
+          "y": 1365
+        },
+        {
+          "x": 1122,
+          "y": 1361
+        }
+      ]
+    },
+    {
+      "description": "2",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 924,
+          "y": 1474
+        },
+        {
+          "x": 941,
+          "y": 1474
+        },
+        {
+          "x": 941,
+          "y": 1493
+        },
+        {
+          "x": 924,
+          "y": 1493
+        }
+      ]
+    },
+    {
+      "description": "HP",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 962,
+          "y": 1474
+        },
+        {
+          "x": 1000,
+          "y": 1474
+        },
+        {
+          "x": 1000,
+          "y": 1493
+        },
+        {
+          "x": 962,
+          "y": 1493
+        }
+      ]
+    },
+    {
+      "description": "1500",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 925,
+          "y": 1505
+        },
+        {
+          "x": 1000,
+          "y": 1507
+        },
+        {
+          "x": 999,
+          "y": 1533
+        },
+        {
+          "x": 924,
+          "y": 1531
+        }
+      ]
+    },
+    {
+      "description": "r.p.m.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1024,
+          "y": 1508
+        },
+        {
+          "x": 1139,
+          "y": 1511
+        },
+        {
+          "x": 1138,
+          "y": 1536
+        },
+        {
+          "x": 1023,
+          "y": 1533
+        }
+      ]
+    },
+    {
+      "description": "500",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 925,
+          "y": 1592
+        },
+        {
+          "x": 981,
+          "y": 1591
+        },
+        {
+          "x": 981,
+          "y": 1616
+        },
+        {
+          "x": 925,
+          "y": 1617
+        }
+      ]
+    },
+    {
+      "description": "kilos",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1001,
+          "y": 1591
+        },
+        {
+          "x": 1098,
+          "y": 1590
+        },
+        {
+          "x": 1098,
+          "y": 1615
+        },
+        {
+          "x": 1001,
+          "y": 1616
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 926,
+          "y": 1625
+        },
+        {
+          "x": 941,
+          "y": 1625
+        },
+        {
+          "x": 941,
+          "y": 1652
+        },
+        {
+          "x": 926,
+          "y": 1652
+        }
+      ]
+    },
+    {
+      "description": "1loo",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 944,
+          "y": 1624
+        },
+        {
+          "x": 1018,
+          "y": 1624
+        },
+        {
+          "x": 1018,
+          "y": 1651
+        },
+        {
+          "x": 944,
+          "y": 1651
+        }
+      ]
+    },
+    {
+      "description": "lbs",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1044,
+          "y": 1624
+        },
+        {
+          "x": 1098,
+          "y": 1624
+        },
+        {
+          "x": 1098,
+          "y": 1651
+        },
+        {
+          "x": 1044,
+          "y": 1651
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1106,
+          "y": 1624
+        },
+        {
+          "x": 1118,
+          "y": 1624
+        },
+        {
+          "x": 1118,
+          "y": 1651
+        },
+        {
+          "x": 1106,
+          "y": 1651
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1122,
+          "y": 1623
+        },
+        {
+          "x": 1134,
+          "y": 1623
+        },
+        {
+          "x": 1134,
+          "y": 1650
+        },
+        {
+          "x": 1122,
+          "y": 1650
+        }
+      ]
+    },
+    {
+      "description": "124",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 925,
+          "y": 1695
+        },
+        {
+          "x": 989,
+          "y": 1695
+        },
+        {
+          "x": 989,
+          "y": 1719
+        },
+        {
+          "x": 925,
+          "y": 1719
+        }
+      ]
+    },
+    {
+      "description": "80",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1045,
+          "y": 1693
+        },
+        {
+          "x": 1083,
+          "y": 1693
+        },
+        {
+          "x": 1083,
+          "y": 1718
+        },
+        {
+          "x": 1045,
+          "y": 1718
+        }
+      ]
+    },
+    {
+      "description": "100",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1004,
+          "y": 1708
+        },
+        {
+          "x": 1019,
+          "y": 1708
+        },
+        {
+          "x": 1019,
+          "y": 1714
+        },
+        {
+          "x": 1004,
+          "y": 1714
+        }
+      ]
+    },
+    {
+      "description": "SCHAUBLIN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 347,
+          "y": 2023
+        },
+        {
+          "x": 525,
+          "y": 2023
+        },
+        {
+          "x": 525,
+          "y": 2046
+        },
+        {
+          "x": 347,
+          "y": 2046
+        }
+      ]
+    },
+    {
+      "description": "LTD",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 548,
+          "y": 2023
+        },
+        {
+          "x": 607,
+          "y": 2023
+        },
+        {
+          "x": 607,
+          "y": 2046
+        },
+        {
+          "x": 548,
+          "y": 2046
+        }
+      ]
+    },
+    {
+      "description": "BEVILARD",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 645,
+          "y": 2019
+        },
+        {
+          "x": 805,
+          "y": 2019
+        },
+        {
+          "x": 805,
+          "y": 2048
+        },
+        {
+          "x": 645,
+          "y": 2048
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 830,
+          "y": 2019
+        },
+        {
+          "x": 842,
+          "y": 2019
+        },
+        {
+          "x": 842,
+          "y": 2048
+        },
+        {
+          "x": 830,
+          "y": 2048
+        }
+      ]
+    },
+    {
+      "description": "Switzerland",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 844,
+          "y": 2019
+        },
+        {
+          "x": 1063,
+          "y": 2019
+        },
+        {
+          "x": 1063,
+          "y": 2048
+        },
+        {
+          "x": 844,
+          "y": 2048
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1065,
+          "y": 2019
+        },
+        {
+          "x": 1078,
+          "y": 2019
+        },
+        {
+          "x": 1078,
+          "y": 2048
+        },
+        {
+          "x": 1065,
+          "y": 2048
+        }
+      ]
+    },
+    {
+      "description": "Gue",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1104,
+          "y": 1708
+        },
+        {
+          "x": 1120,
+          "y": 1708
+        },
+        {
+          "x": 1120,
+          "y": 1714
+        },
+        {
+          "x": 1104,
+          "y": 1714
+        }
+      ]
+    },
+    {
+      "description": "150",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1144,
+          "y": 1696
+        },
+        {
+          "x": 1203,
+          "y": 1696
+        },
+        {
+          "x": 1203,
+          "y": 1722
+        },
+        {
+          "x": 1144,
+          "y": 1722
+        }
+      ]
+    },
+    {
+      "description": "cm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1223,
+          "y": 1696
+        },
+        {
+          "x": 1265,
+          "y": 1696
+        },
+        {
+          "x": 1265,
+          "y": 1722
+        },
+        {
+          "x": 1223,
+          "y": 1722
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1268,
+          "y": 1696
+        },
+        {
+          "x": 1279,
+          "y": 1696
+        },
+        {
+          "x": 1279,
+          "y": 1722
+        },
+        {
+          "x": 1268,
+          "y": 1722
+        }
+      ]
+    }
+  ]
+}

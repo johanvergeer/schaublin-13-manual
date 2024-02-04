@@ -1,0 +1,10060 @@
+{
+  "locale": "fr",
+  "text": "CARACT\u00c9RISTIQUES CONSTRUCTIVES & \u039c\u0391\u039d\u0399\u0395\u039c\u0395\u039d\u03a4\nT\u00caTE PORTE-BROCHE\nUn volant avec vernier 25 accessible facilement de toute part, permet un d\u00e9placement\naxial de la poup\u00e9e sur la partie sup\u00e9rieure du b\u00e2ti. La vis transversale a un pas de\n4 mm. Le vernier peut \u00eatre remis \u00e0 0 et permet une lecture au 2/100 de mm. La broche,\nen acier chrome nickel tremp\u00e9, tourne sur roulements de grande pr\u00e9cision. Le nez de\nbroche comporte un c\u00f4ne am\u00e9ricain ISO 30 (National-Standard 1 1/4\") - DIN 2079, Gr. 30\nVSM 33931, Gr. 32 (Sur demande : ex\u00e9cution sp\u00e9ciale avec c\u00f4ne Morse 4).\nDimensions voir page 21 et 21a.\nR\u00e9glage des paliers de la broche, voir page 20.\nLa face avant de la t\u00eate porte-broche usin\u00e9e sp\u00e9cialement et les 2 bras-supports 7 per-\nmettent le montage d'\u00e9quipements particuliers ainsi que du contre-palier pour le guidage\ndes longs arbres porte-fraises.\nB\u00c2TI\nLe b\u00e2ti en fonte sp\u00e9ciale tr\u00e8s dure, fortement nervur\u00e9 et d'un seul bloc avec le socle,\nrenferme dans sa partie inf\u00e9rieure les moteurs de la broche et de l'avance rapide ainsi\nque le r\u00e9servoir du liquide de r\u00e9frig\u00e9ration.\nDans la partie sup\u00e9rieure se trouve la bo\u00eete de vitesses, dont tous les engrenages sont\nen acier tremp\u00e9 rectifi\u00e9. Cette bo\u00eete combin\u00e9e avec un variateur plac\u00e9 \u00e9galement dans\nle b\u00e2ti, donne une gamme de vitesses tr\u00e8s \u00e9tendue de 58 \u00e0 2000 t/min.\nMISE EN MARCHE\nL'interrupteur 22 plac\u00e9 dans un coffret du c\u00f4t\u00e9 droit du b\u00e2ti permet la mise en marche\net le changement du sens de rotation de la broche. Il est actionn\u00e9 par un levier 15 dont\nla position peut \u00eatre r\u00e9gl\u00e9e suivant la position de l'op\u00e9rateur. Une simple vis 14 sert\n\u00e0 verrouiller ce levier, assurant ainsi toujours un sens correct de rotation de la fraise.\nCette vis plac\u00e9e au centre du dessin de la fraise qui correspond avec la fraise mont\u00e9e\nsur la broche, donne automatiquement le sens de rotation d\u00e9sir\u00e9.\nLors de longs arr\u00eats de la machine, il est recommand\u00e9 de d\u00e9clencher le contacteur in-\ndiqu\u00e9 par une plaquette montrant une fraise. La mise en marche du moteur des avances\nrapides se fait au moyen de la p\u00e9dale 24 et l'interrupteur \u00e0 poussoir 23 plac\u00e9s devant\net dans le socle.\nLe moteur de la pompe est mis en marche par le bouton 21 du coffret de protection qui\nest indiqu\u00e9 par la plaquette montrant un robinet.\nIN 13\nFABRIQUE DE MACHINES SCHAUBLIN S.A. B\u00c9VILARD/SUISSE\n15\n\u0646\u0627\u0645\u0647",
+  "lines": [
+    {
+      "description": "CARACT\u00c9RISTIQUES",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 267,
+          "y": 260
+        },
+        {
+          "x": 713,
+          "y": 263
+        },
+        {
+          "x": 713,
+          "y": 300
+        },
+        {
+          "x": 267,
+          "y": 297
+        }
+      ]
+    },
+    {
+      "description": "CONSTRUCTIVES",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 746,
+          "y": 263
+        },
+        {
+          "x": 1109,
+          "y": 265
+        },
+        {
+          "x": 1109,
+          "y": 302
+        },
+        {
+          "x": 746,
+          "y": 300
+        }
+      ]
+    },
+    {
+      "description": "&",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1140,
+          "y": 277
+        },
+        {
+          "x": 1161,
+          "y": 277
+        },
+        {
+          "x": 1161,
+          "y": 296
+        },
+        {
+          "x": 1140,
+          "y": 296
+        }
+      ]
+    },
+    {
+      "description": "\u039c\u0391\u039d\u0399\u0395\u039c\u0395\u039d\u03a4",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1194,
+          "y": 275
+        },
+        {
+          "x": 1443,
+          "y": 279
+        },
+        {
+          "x": 1443,
+          "y": 304
+        },
+        {
+          "x": 1194,
+          "y": 300
+        }
+      ]
+    },
+    {
+      "description": "T\u00caTE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 266,
+          "y": 352
+        },
+        {
+          "x": 346,
+          "y": 353
+        },
+        {
+          "x": 346,
+          "y": 382
+        },
+        {
+          "x": 266,
+          "y": 381
+        }
+      ]
+    },
+    {
+      "description": "PORTE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 361,
+          "y": 354
+        },
+        {
+          "x": 458,
+          "y": 356
+        },
+        {
+          "x": 458,
+          "y": 384
+        },
+        {
+          "x": 361,
+          "y": 382
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 461,
+          "y": 356
+        },
+        {
+          "x": 471,
+          "y": 356
+        },
+        {
+          "x": 471,
+          "y": 384
+        },
+        {
+          "x": 461,
+          "y": 384
+        }
+      ]
+    },
+    {
+      "description": "BROCHE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 473,
+          "y": 355
+        },
+        {
+          "x": 591,
+          "y": 357
+        },
+        {
+          "x": 591,
+          "y": 386
+        },
+        {
+          "x": 473,
+          "y": 384
+        }
+      ]
+    },
+    {
+      "description": "Un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 266,
+          "y": 411
+        },
+        {
+          "x": 302,
+          "y": 411
+        },
+        {
+          "x": 302,
+          "y": 439
+        },
+        {
+          "x": 266,
+          "y": 439
+        }
+      ]
+    },
+    {
+      "description": "volant",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 318,
+          "y": 410
+        },
+        {
+          "x": 399,
+          "y": 411
+        },
+        {
+          "x": 399,
+          "y": 440
+        },
+        {
+          "x": 318,
+          "y": 439
+        }
+      ]
+    },
+    {
+      "description": "avec",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 412,
+          "y": 412
+        },
+        {
+          "x": 470,
+          "y": 412
+        },
+        {
+          "x": 470,
+          "y": 440
+        },
+        {
+          "x": 412,
+          "y": 440
+        }
+      ]
+    },
+    {
+      "description": "vernier",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 487,
+          "y": 412
+        },
+        {
+          "x": 577,
+          "y": 413
+        },
+        {
+          "x": 577,
+          "y": 442
+        },
+        {
+          "x": 487,
+          "y": 441
+        }
+      ]
+    },
+    {
+      "description": "25",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 592,
+          "y": 413
+        },
+        {
+          "x": 620,
+          "y": 413
+        },
+        {
+          "x": 620,
+          "y": 441
+        },
+        {
+          "x": 592,
+          "y": 441
+        }
+      ]
+    },
+    {
+      "description": "accessible",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 635,
+          "y": 413
+        },
+        {
+          "x": 775,
+          "y": 414
+        },
+        {
+          "x": 775,
+          "y": 443
+        },
+        {
+          "x": 635,
+          "y": 442
+        }
+      ]
+    },
+    {
+      "description": "facilement",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 790,
+          "y": 414
+        },
+        {
+          "x": 927,
+          "y": 415
+        },
+        {
+          "x": 927,
+          "y": 444
+        },
+        {
+          "x": 790,
+          "y": 443
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 942,
+          "y": 416
+        },
+        {
+          "x": 969,
+          "y": 416
+        },
+        {
+          "x": 969,
+          "y": 444
+        },
+        {
+          "x": 942,
+          "y": 444
+        }
+      ]
+    },
+    {
+      "description": "toute",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 985,
+          "y": 416
+        },
+        {
+          "x": 1048,
+          "y": 417
+        },
+        {
+          "x": 1048,
+          "y": 446
+        },
+        {
+          "x": 985,
+          "y": 445
+        }
+      ]
+    },
+    {
+      "description": "part",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1063,
+          "y": 417
+        },
+        {
+          "x": 1113,
+          "y": 417
+        },
+        {
+          "x": 1113,
+          "y": 445
+        },
+        {
+          "x": 1063,
+          "y": 445
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1117,
+          "y": 417
+        },
+        {
+          "x": 1121,
+          "y": 417
+        },
+        {
+          "x": 1121,
+          "y": 445
+        },
+        {
+          "x": 1117,
+          "y": 445
+        }
+      ]
+    },
+    {
+      "description": "permet",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1138,
+          "y": 417
+        },
+        {
+          "x": 1224,
+          "y": 418
+        },
+        {
+          "x": 1224,
+          "y": 447
+        },
+        {
+          "x": 1138,
+          "y": 446
+        }
+      ]
+    },
+    {
+      "description": "un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1239,
+          "y": 418
+        },
+        {
+          "x": 1267,
+          "y": 418
+        },
+        {
+          "x": 1267,
+          "y": 447
+        },
+        {
+          "x": 1239,
+          "y": 447
+        }
+      ]
+    },
+    {
+      "description": "d\u00e9placement",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1282,
+          "y": 418
+        },
+        {
+          "x": 1443,
+          "y": 419
+        },
+        {
+          "x": 1443,
+          "y": 448
+        },
+        {
+          "x": 1282,
+          "y": 447
+        }
+      ]
+    },
+    {
+      "description": "axial",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 267,
+          "y": 452
+        },
+        {
+          "x": 333,
+          "y": 452
+        },
+        {
+          "x": 333,
+          "y": 481
+        },
+        {
+          "x": 267,
+          "y": 481
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 350,
+          "y": 452
+        },
+        {
+          "x": 380,
+          "y": 452
+        },
+        {
+          "x": 380,
+          "y": 481
+        },
+        {
+          "x": 350,
+          "y": 481
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 395,
+          "y": 452
+        },
+        {
+          "x": 421,
+          "y": 452
+        },
+        {
+          "x": 421,
+          "y": 481
+        },
+        {
+          "x": 395,
+          "y": 481
+        }
+      ]
+    },
+    {
+      "description": "poup\u00e9e",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 435,
+          "y": 452
+        },
+        {
+          "x": 526,
+          "y": 452
+        },
+        {
+          "x": 526,
+          "y": 481
+        },
+        {
+          "x": 435,
+          "y": 481
+        }
+      ]
+    },
+    {
+      "description": "sur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 544,
+          "y": 453
+        },
+        {
+          "x": 582,
+          "y": 453
+        },
+        {
+          "x": 582,
+          "y": 482
+        },
+        {
+          "x": 544,
+          "y": 482
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 597,
+          "y": 453
+        },
+        {
+          "x": 622,
+          "y": 453
+        },
+        {
+          "x": 622,
+          "y": 482
+        },
+        {
+          "x": 597,
+          "y": 482
+        }
+      ]
+    },
+    {
+      "description": "partie",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 637,
+          "y": 453
+        },
+        {
+          "x": 712,
+          "y": 453
+        },
+        {
+          "x": 712,
+          "y": 482
+        },
+        {
+          "x": 637,
+          "y": 482
+        }
+      ]
+    },
+    {
+      "description": "sup\u00e9rieure",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 730,
+          "y": 453
+        },
+        {
+          "x": 863,
+          "y": 454
+        },
+        {
+          "x": 863,
+          "y": 484
+        },
+        {
+          "x": 730,
+          "y": 483
+        }
+      ]
+    },
+    {
+      "description": "du",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 880,
+          "y": 454
+        },
+        {
+          "x": 908,
+          "y": 454
+        },
+        {
+          "x": 908,
+          "y": 483
+        },
+        {
+          "x": 880,
+          "y": 483
+        }
+      ]
+    },
+    {
+      "description": "b\u00e2ti",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 925,
+          "y": 454
+        },
+        {
+          "x": 974,
+          "y": 454
+        },
+        {
+          "x": 974,
+          "y": 483
+        },
+        {
+          "x": 925,
+          "y": 483
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 979,
+          "y": 454
+        },
+        {
+          "x": 983,
+          "y": 454
+        },
+        {
+          "x": 983,
+          "y": 483
+        },
+        {
+          "x": 979,
+          "y": 483
+        }
+      ]
+    },
+    {
+      "description": "La",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1003,
+          "y": 454
+        },
+        {
+          "x": 1037,
+          "y": 454
+        },
+        {
+          "x": 1037,
+          "y": 483
+        },
+        {
+          "x": 1003,
+          "y": 483
+        }
+      ]
+    },
+    {
+      "description": "vis",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1053,
+          "y": 454
+        },
+        {
+          "x": 1090,
+          "y": 454
+        },
+        {
+          "x": 1090,
+          "y": 484
+        },
+        {
+          "x": 1053,
+          "y": 484
+        }
+      ]
+    },
+    {
+      "description": "transversale",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1106,
+          "y": 454
+        },
+        {
+          "x": 1267,
+          "y": 455
+        },
+        {
+          "x": 1267,
+          "y": 485
+        },
+        {
+          "x": 1106,
+          "y": 484
+        }
+      ]
+    },
+    {
+      "description": "a",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1284,
+          "y": 455
+        },
+        {
+          "x": 1299,
+          "y": 455
+        },
+        {
+          "x": 1299,
+          "y": 484
+        },
+        {
+          "x": 1284,
+          "y": 484
+        }
+      ]
+    },
+    {
+      "description": "un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1314,
+          "y": 455
+        },
+        {
+          "x": 1343,
+          "y": 455
+        },
+        {
+          "x": 1343,
+          "y": 485
+        },
+        {
+          "x": 1314,
+          "y": 485
+        }
+      ]
+    },
+    {
+      "description": "pas",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1358,
+          "y": 456
+        },
+        {
+          "x": 1403,
+          "y": 456
+        },
+        {
+          "x": 1403,
+          "y": 485
+        },
+        {
+          "x": 1358,
+          "y": 485
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1415,
+          "y": 456
+        },
+        {
+          "x": 1443,
+          "y": 456
+        },
+        {
+          "x": 1443,
+          "y": 485
+        },
+        {
+          "x": 1415,
+          "y": 485
+        }
+      ]
+    },
+    {
+      "description": "4",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 265,
+          "y": 492
+        },
+        {
+          "x": 281,
+          "y": 492
+        },
+        {
+          "x": 281,
+          "y": 520
+        },
+        {
+          "x": 265,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 300,
+          "y": 492
+        },
+        {
+          "x": 339,
+          "y": 492
+        },
+        {
+          "x": 339,
+          "y": 520
+        },
+        {
+          "x": 300,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 343,
+          "y": 492
+        },
+        {
+          "x": 349,
+          "y": 492
+        },
+        {
+          "x": 349,
+          "y": 520
+        },
+        {
+          "x": 343,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "Le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 367,
+          "y": 492
+        },
+        {
+          "x": 402,
+          "y": 492
+        },
+        {
+          "x": 402,
+          "y": 520
+        },
+        {
+          "x": 367,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "vernier",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 420,
+          "y": 492
+        },
+        {
+          "x": 510,
+          "y": 492
+        },
+        {
+          "x": 510,
+          "y": 520
+        },
+        {
+          "x": 420,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "peut",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 527,
+          "y": 492
+        },
+        {
+          "x": 581,
+          "y": 492
+        },
+        {
+          "x": 581,
+          "y": 520
+        },
+        {
+          "x": 527,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "\u00eatre",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 593,
+          "y": 492
+        },
+        {
+          "x": 641,
+          "y": 492
+        },
+        {
+          "x": 641,
+          "y": 520
+        },
+        {
+          "x": 593,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "remis",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 654,
+          "y": 492
+        },
+        {
+          "x": 722,
+          "y": 492
+        },
+        {
+          "x": 722,
+          "y": 520
+        },
+        {
+          "x": 654,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "\u00e0",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 737,
+          "y": 492
+        },
+        {
+          "x": 750,
+          "y": 492
+        },
+        {
+          "x": 750,
+          "y": 520
+        },
+        {
+          "x": 737,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "0",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 761,
+          "y": 492
+        },
+        {
+          "x": 776,
+          "y": 492
+        },
+        {
+          "x": 776,
+          "y": 520
+        },
+        {
+          "x": 761,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "et",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 787,
+          "y": 492
+        },
+        {
+          "x": 808,
+          "y": 492
+        },
+        {
+          "x": 808,
+          "y": 520
+        },
+        {
+          "x": 787,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "permet",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 821,
+          "y": 492
+        },
+        {
+          "x": 905,
+          "y": 492
+        },
+        {
+          "x": 905,
+          "y": 520
+        },
+        {
+          "x": 821,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "une",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 917,
+          "y": 492
+        },
+        {
+          "x": 961,
+          "y": 492
+        },
+        {
+          "x": 961,
+          "y": 520
+        },
+        {
+          "x": 917,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "lecture",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 974,
+          "y": 492
+        },
+        {
+          "x": 1063,
+          "y": 492
+        },
+        {
+          "x": 1063,
+          "y": 520
+        },
+        {
+          "x": 974,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "au",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1075,
+          "y": 492
+        },
+        {
+          "x": 1105,
+          "y": 492
+        },
+        {
+          "x": 1105,
+          "y": 520
+        },
+        {
+          "x": 1075,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "2/100",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1117,
+          "y": 492
+        },
+        {
+          "x": 1196,
+          "y": 492
+        },
+        {
+          "x": 1196,
+          "y": 520
+        },
+        {
+          "x": 1117,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1208,
+          "y": 492
+        },
+        {
+          "x": 1238,
+          "y": 492
+        },
+        {
+          "x": 1238,
+          "y": 520
+        },
+        {
+          "x": 1208,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "mm",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1251,
+          "y": 492
+        },
+        {
+          "x": 1287,
+          "y": 492
+        },
+        {
+          "x": 1287,
+          "y": 520
+        },
+        {
+          "x": 1251,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1292,
+          "y": 492
+        },
+        {
+          "x": 1296,
+          "y": 492
+        },
+        {
+          "x": 1296,
+          "y": 520
+        },
+        {
+          "x": 1292,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "La",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1312,
+          "y": 492
+        },
+        {
+          "x": 1344,
+          "y": 492
+        },
+        {
+          "x": 1344,
+          "y": 520
+        },
+        {
+          "x": 1312,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "broche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1354,
+          "y": 492
+        },
+        {
+          "x": 1440,
+          "y": 492
+        },
+        {
+          "x": 1440,
+          "y": 520
+        },
+        {
+          "x": 1354,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1441,
+          "y": 492
+        },
+        {
+          "x": 1448,
+          "y": 492
+        },
+        {
+          "x": 1448,
+          "y": 520
+        },
+        {
+          "x": 1441,
+          "y": 520
+        }
+      ]
+    },
+    {
+      "description": "en",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 268,
+          "y": 527
+        },
+        {
+          "x": 298,
+          "y": 527
+        },
+        {
+          "x": 298,
+          "y": 555
+        },
+        {
+          "x": 268,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "acier",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 325,
+          "y": 527
+        },
+        {
+          "x": 391,
+          "y": 527
+        },
+        {
+          "x": 391,
+          "y": 555
+        },
+        {
+          "x": 325,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "chrome",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 416,
+          "y": 527
+        },
+        {
+          "x": 505,
+          "y": 527
+        },
+        {
+          "x": 505,
+          "y": 555
+        },
+        {
+          "x": 416,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "nickel",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 531,
+          "y": 527
+        },
+        {
+          "x": 609,
+          "y": 527
+        },
+        {
+          "x": 609,
+          "y": 555
+        },
+        {
+          "x": 531,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "tremp\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 632,
+          "y": 527
+        },
+        {
+          "x": 718,
+          "y": 527
+        },
+        {
+          "x": 718,
+          "y": 555
+        },
+        {
+          "x": 632,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 722,
+          "y": 527
+        },
+        {
+          "x": 726,
+          "y": 527
+        },
+        {
+          "x": 726,
+          "y": 555
+        },
+        {
+          "x": 722,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "tourne",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 751,
+          "y": 527
+        },
+        {
+          "x": 832,
+          "y": 527
+        },
+        {
+          "x": 832,
+          "y": 555
+        },
+        {
+          "x": 751,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "sur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 844,
+          "y": 527
+        },
+        {
+          "x": 882,
+          "y": 527
+        },
+        {
+          "x": 882,
+          "y": 555
+        },
+        {
+          "x": 844,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "roulements",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 894,
+          "y": 527
+        },
+        {
+          "x": 1032,
+          "y": 527
+        },
+        {
+          "x": 1032,
+          "y": 555
+        },
+        {
+          "x": 894,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1046,
+          "y": 527
+        },
+        {
+          "x": 1074,
+          "y": 527
+        },
+        {
+          "x": 1074,
+          "y": 555
+        },
+        {
+          "x": 1046,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "grande",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1087,
+          "y": 527
+        },
+        {
+          "x": 1172,
+          "y": 527
+        },
+        {
+          "x": 1172,
+          "y": 555
+        },
+        {
+          "x": 1087,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "pr\u00e9cision",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1183,
+          "y": 527
+        },
+        {
+          "x": 1303,
+          "y": 527
+        },
+        {
+          "x": 1303,
+          "y": 555
+        },
+        {
+          "x": 1183,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1308,
+          "y": 527
+        },
+        {
+          "x": 1313,
+          "y": 527
+        },
+        {
+          "x": 1313,
+          "y": 555
+        },
+        {
+          "x": 1308,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "Le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1328,
+          "y": 527
+        },
+        {
+          "x": 1360,
+          "y": 527
+        },
+        {
+          "x": 1360,
+          "y": 555
+        },
+        {
+          "x": 1328,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "nez",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1371,
+          "y": 527
+        },
+        {
+          "x": 1415,
+          "y": 527
+        },
+        {
+          "x": 1415,
+          "y": 555
+        },
+        {
+          "x": 1371,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1426,
+          "y": 527
+        },
+        {
+          "x": 1456,
+          "y": 527
+        },
+        {
+          "x": 1456,
+          "y": 555
+        },
+        {
+          "x": 1426,
+          "y": 555
+        }
+      ]
+    },
+    {
+      "description": "broche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 267,
+          "y": 560
+        },
+        {
+          "x": 353,
+          "y": 560
+        },
+        {
+          "x": 353,
+          "y": 589
+        },
+        {
+          "x": 267,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "comporte",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 367,
+          "y": 560
+        },
+        {
+          "x": 481,
+          "y": 560
+        },
+        {
+          "x": 481,
+          "y": 589
+        },
+        {
+          "x": 367,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 494,
+          "y": 560
+        },
+        {
+          "x": 522,
+          "y": 560
+        },
+        {
+          "x": 522,
+          "y": 589
+        },
+        {
+          "x": 494,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "c\u00f4ne",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 538,
+          "y": 560
+        },
+        {
+          "x": 597,
+          "y": 560
+        },
+        {
+          "x": 597,
+          "y": 589
+        },
+        {
+          "x": 538,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "am\u00e9ricain",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 610,
+          "y": 560
+        },
+        {
+          "x": 733,
+          "y": 560
+        },
+        {
+          "x": 733,
+          "y": 589
+        },
+        {
+          "x": 610,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "ISO",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 747,
+          "y": 560
+        },
+        {
+          "x": 789,
+          "y": 560
+        },
+        {
+          "x": 789,
+          "y": 589
+        },
+        {
+          "x": 747,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "30",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 805,
+          "y": 560
+        },
+        {
+          "x": 832,
+          "y": 560
+        },
+        {
+          "x": 832,
+          "y": 589
+        },
+        {
+          "x": 805,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 845,
+          "y": 560
+        },
+        {
+          "x": 852,
+          "y": 560
+        },
+        {
+          "x": 852,
+          "y": 589
+        },
+        {
+          "x": 845,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "National",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 855,
+          "y": 560
+        },
+        {
+          "x": 964,
+          "y": 560
+        },
+        {
+          "x": 964,
+          "y": 589
+        },
+        {
+          "x": 855,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 967,
+          "y": 560
+        },
+        {
+          "x": 974,
+          "y": 560
+        },
+        {
+          "x": 974,
+          "y": 589
+        },
+        {
+          "x": 967,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "Standard",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 977,
+          "y": 560
+        },
+        {
+          "x": 1088,
+          "y": 560
+        },
+        {
+          "x": 1088,
+          "y": 589
+        },
+        {
+          "x": 977,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "1",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1103,
+          "y": 560
+        },
+        {
+          "x": 1111,
+          "y": 560
+        },
+        {
+          "x": 1111,
+          "y": 589
+        },
+        {
+          "x": 1103,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "1/4",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1128,
+          "y": 560
+        },
+        {
+          "x": 1177,
+          "y": 560
+        },
+        {
+          "x": 1177,
+          "y": 589
+        },
+        {
+          "x": 1128,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "\"",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1179,
+          "y": 560
+        },
+        {
+          "x": 1191,
+          "y": 560
+        },
+        {
+          "x": 1191,
+          "y": 589
+        },
+        {
+          "x": 1179,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1197,
+          "y": 560
+        },
+        {
+          "x": 1205,
+          "y": 560
+        },
+        {
+          "x": 1205,
+          "y": 589
+        },
+        {
+          "x": 1197,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1220,
+          "y": 560
+        },
+        {
+          "x": 1228,
+          "y": 560
+        },
+        {
+          "x": 1228,
+          "y": 589
+        },
+        {
+          "x": 1220,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "DIN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1241,
+          "y": 560
+        },
+        {
+          "x": 1289,
+          "y": 560
+        },
+        {
+          "x": 1289,
+          "y": 589
+        },
+        {
+          "x": 1241,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "2079",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1302,
+          "y": 560
+        },
+        {
+          "x": 1361,
+          "y": 560
+        },
+        {
+          "x": 1361,
+          "y": 589
+        },
+        {
+          "x": 1302,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1366,
+          "y": 560
+        },
+        {
+          "x": 1371,
+          "y": 560
+        },
+        {
+          "x": 1371,
+          "y": 589
+        },
+        {
+          "x": 1366,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "Gr",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1375,
+          "y": 560
+        },
+        {
+          "x": 1404,
+          "y": 560
+        },
+        {
+          "x": 1404,
+          "y": 589
+        },
+        {
+          "x": 1375,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1406,
+          "y": 560
+        },
+        {
+          "x": 1412,
+          "y": 560
+        },
+        {
+          "x": 1412,
+          "y": 589
+        },
+        {
+          "x": 1406,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "30",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1424,
+          "y": 560
+        },
+        {
+          "x": 1454,
+          "y": 560
+        },
+        {
+          "x": 1454,
+          "y": 589
+        },
+        {
+          "x": 1424,
+          "y": 589
+        }
+      ]
+    },
+    {
+      "description": "VSM",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 268,
+          "y": 595
+        },
+        {
+          "x": 323,
+          "y": 595
+        },
+        {
+          "x": 323,
+          "y": 625
+        },
+        {
+          "x": 268,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "33931",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 338,
+          "y": 595
+        },
+        {
+          "x": 411,
+          "y": 595
+        },
+        {
+          "x": 411,
+          "y": 625
+        },
+        {
+          "x": 338,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 416,
+          "y": 595
+        },
+        {
+          "x": 421,
+          "y": 595
+        },
+        {
+          "x": 421,
+          "y": 625
+        },
+        {
+          "x": 416,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "Gr",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 437,
+          "y": 595
+        },
+        {
+          "x": 465,
+          "y": 595
+        },
+        {
+          "x": 465,
+          "y": 625
+        },
+        {
+          "x": 437,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 468,
+          "y": 595
+        },
+        {
+          "x": 473,
+          "y": 595
+        },
+        {
+          "x": 473,
+          "y": 625
+        },
+        {
+          "x": 468,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "32",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 490,
+          "y": 595
+        },
+        {
+          "x": 517,
+          "y": 595
+        },
+        {
+          "x": 517,
+          "y": 625
+        },
+        {
+          "x": 490,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "(",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 531,
+          "y": 595
+        },
+        {
+          "x": 538,
+          "y": 595
+        },
+        {
+          "x": 538,
+          "y": 625
+        },
+        {
+          "x": 531,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "Sur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 541,
+          "y": 595
+        },
+        {
+          "x": 580,
+          "y": 595
+        },
+        {
+          "x": 580,
+          "y": 625
+        },
+        {
+          "x": 541,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "demande",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 595,
+          "y": 595
+        },
+        {
+          "x": 705,
+          "y": 595
+        },
+        {
+          "x": 705,
+          "y": 625
+        },
+        {
+          "x": 595,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": ":",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 719,
+          "y": 595
+        },
+        {
+          "x": 725,
+          "y": 595
+        },
+        {
+          "x": 725,
+          "y": 625
+        },
+        {
+          "x": 719,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "ex\u00e9cution",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 740,
+          "y": 595
+        },
+        {
+          "x": 863,
+          "y": 595
+        },
+        {
+          "x": 863,
+          "y": 625
+        },
+        {
+          "x": 740,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "sp\u00e9ciale",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 879,
+          "y": 595
+        },
+        {
+          "x": 988,
+          "y": 595
+        },
+        {
+          "x": 988,
+          "y": 625
+        },
+        {
+          "x": 879,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "avec",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1002,
+          "y": 595
+        },
+        {
+          "x": 1060,
+          "y": 595
+        },
+        {
+          "x": 1060,
+          "y": 625
+        },
+        {
+          "x": 1002,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "c\u00f4ne",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1076,
+          "y": 595
+        },
+        {
+          "x": 1135,
+          "y": 595
+        },
+        {
+          "x": 1135,
+          "y": 625
+        },
+        {
+          "x": 1076,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "Morse",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1145,
+          "y": 595
+        },
+        {
+          "x": 1221,
+          "y": 595
+        },
+        {
+          "x": 1221,
+          "y": 625
+        },
+        {
+          "x": 1145,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "4",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1232,
+          "y": 595
+        },
+        {
+          "x": 1245,
+          "y": 595
+        },
+        {
+          "x": 1245,
+          "y": 625
+        },
+        {
+          "x": 1232,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": ")",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1249,
+          "y": 595
+        },
+        {
+          "x": 1257,
+          "y": 595
+        },
+        {
+          "x": 1257,
+          "y": 625
+        },
+        {
+          "x": 1249,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1259,
+          "y": 595
+        },
+        {
+          "x": 1264,
+          "y": 595
+        },
+        {
+          "x": 1264,
+          "y": 625
+        },
+        {
+          "x": 1259,
+          "y": 625
+        }
+      ]
+    },
+    {
+      "description": "Dimensions",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 267,
+          "y": 628
+        },
+        {
+          "x": 418,
+          "y": 629
+        },
+        {
+          "x": 418,
+          "y": 658
+        },
+        {
+          "x": 267,
+          "y": 657
+        }
+      ]
+    },
+    {
+      "description": "voir",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 430,
+          "y": 629
+        },
+        {
+          "x": 480,
+          "y": 629
+        },
+        {
+          "x": 480,
+          "y": 657
+        },
+        {
+          "x": 430,
+          "y": 657
+        }
+      ]
+    },
+    {
+      "description": "page",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 491,
+          "y": 630
+        },
+        {
+          "x": 552,
+          "y": 630
+        },
+        {
+          "x": 552,
+          "y": 658
+        },
+        {
+          "x": 491,
+          "y": 658
+        }
+      ]
+    },
+    {
+      "description": "21",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 563,
+          "y": 630
+        },
+        {
+          "x": 590,
+          "y": 630
+        },
+        {
+          "x": 590,
+          "y": 658
+        },
+        {
+          "x": 563,
+          "y": 658
+        }
+      ]
+    },
+    {
+      "description": "et",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 605,
+          "y": 630
+        },
+        {
+          "x": 627,
+          "y": 630
+        },
+        {
+          "x": 627,
+          "y": 658
+        },
+        {
+          "x": 605,
+          "y": 658
+        }
+      ]
+    },
+    {
+      "description": "21a",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 638,
+          "y": 630
+        },
+        {
+          "x": 685,
+          "y": 630
+        },
+        {
+          "x": 685,
+          "y": 658
+        },
+        {
+          "x": 638,
+          "y": 658
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 686,
+          "y": 630
+        },
+        {
+          "x": 691,
+          "y": 630
+        },
+        {
+          "x": 691,
+          "y": 658
+        },
+        {
+          "x": 686,
+          "y": 658
+        }
+      ]
+    },
+    {
+      "description": "R\u00e9glage",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 267,
+          "y": 664
+        },
+        {
+          "x": 374,
+          "y": 664
+        },
+        {
+          "x": 374,
+          "y": 692
+        },
+        {
+          "x": 267,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": "des",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 386,
+          "y": 664
+        },
+        {
+          "x": 429,
+          "y": 664
+        },
+        {
+          "x": 429,
+          "y": 692
+        },
+        {
+          "x": 386,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": "paliers",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 440,
+          "y": 664
+        },
+        {
+          "x": 529,
+          "y": 664
+        },
+        {
+          "x": 529,
+          "y": 692
+        },
+        {
+          "x": 440,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 542,
+          "y": 664
+        },
+        {
+          "x": 571,
+          "y": 664
+        },
+        {
+          "x": 571,
+          "y": 692
+        },
+        {
+          "x": 542,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 583,
+          "y": 664
+        },
+        {
+          "x": 607,
+          "y": 664
+        },
+        {
+          "x": 607,
+          "y": 692
+        },
+        {
+          "x": 583,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": "broche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 619,
+          "y": 664
+        },
+        {
+          "x": 703,
+          "y": 664
+        },
+        {
+          "x": 703,
+          "y": 692
+        },
+        {
+          "x": 619,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 706,
+          "y": 664
+        },
+        {
+          "x": 710,
+          "y": 664
+        },
+        {
+          "x": 710,
+          "y": 692
+        },
+        {
+          "x": 706,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": "voir",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 725,
+          "y": 664
+        },
+        {
+          "x": 774,
+          "y": 664
+        },
+        {
+          "x": 774,
+          "y": 692
+        },
+        {
+          "x": 725,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": "page",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 785,
+          "y": 664
+        },
+        {
+          "x": 845,
+          "y": 664
+        },
+        {
+          "x": 845,
+          "y": 692
+        },
+        {
+          "x": 785,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": "20",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 856,
+          "y": 664
+        },
+        {
+          "x": 887,
+          "y": 664
+        },
+        {
+          "x": 887,
+          "y": 692
+        },
+        {
+          "x": 856,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 888,
+          "y": 664
+        },
+        {
+          "x": 894,
+          "y": 664
+        },
+        {
+          "x": 894,
+          "y": 692
+        },
+        {
+          "x": 888,
+          "y": 692
+        }
+      ]
+    },
+    {
+      "description": "La",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 269,
+          "y": 705
+        },
+        {
+          "x": 305,
+          "y": 705
+        },
+        {
+          "x": 305,
+          "y": 733
+        },
+        {
+          "x": 269,
+          "y": 733
+        }
+      ]
+    },
+    {
+      "description": "face",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 317,
+          "y": 705
+        },
+        {
+          "x": 372,
+          "y": 705
+        },
+        {
+          "x": 372,
+          "y": 733
+        },
+        {
+          "x": 317,
+          "y": 733
+        }
+      ]
+    },
+    {
+      "description": "avant",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 386,
+          "y": 705
+        },
+        {
+          "x": 456,
+          "y": 705
+        },
+        {
+          "x": 456,
+          "y": 733
+        },
+        {
+          "x": 386,
+          "y": 733
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 470,
+          "y": 706
+        },
+        {
+          "x": 497,
+          "y": 706
+        },
+        {
+          "x": 497,
+          "y": 734
+        },
+        {
+          "x": 470,
+          "y": 734
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 511,
+          "y": 706
+        },
+        {
+          "x": 534,
+          "y": 706
+        },
+        {
+          "x": 534,
+          "y": 734
+        },
+        {
+          "x": 511,
+          "y": 734
+        }
+      ]
+    },
+    {
+      "description": "t\u00eate",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 549,
+          "y": 706
+        },
+        {
+          "x": 598,
+          "y": 706
+        },
+        {
+          "x": 598,
+          "y": 734
+        },
+        {
+          "x": 549,
+          "y": 734
+        }
+      ]
+    },
+    {
+      "description": "porte",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 611,
+          "y": 706
+        },
+        {
+          "x": 675,
+          "y": 706
+        },
+        {
+          "x": 675,
+          "y": 735
+        },
+        {
+          "x": 611,
+          "y": 735
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 678,
+          "y": 707
+        },
+        {
+          "x": 686,
+          "y": 707
+        },
+        {
+          "x": 686,
+          "y": 735
+        },
+        {
+          "x": 678,
+          "y": 735
+        }
+      ]
+    },
+    {
+      "description": "broche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 688,
+          "y": 707
+        },
+        {
+          "x": 772,
+          "y": 707
+        },
+        {
+          "x": 772,
+          "y": 735
+        },
+        {
+          "x": 688,
+          "y": 735
+        }
+      ]
+    },
+    {
+      "description": "usin\u00e9e",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 784,
+          "y": 707
+        },
+        {
+          "x": 871,
+          "y": 707
+        },
+        {
+          "x": 871,
+          "y": 736
+        },
+        {
+          "x": 784,
+          "y": 736
+        }
+      ]
+    },
+    {
+      "description": "sp\u00e9cialement",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 889,
+          "y": 707
+        },
+        {
+          "x": 1059,
+          "y": 708
+        },
+        {
+          "x": 1059,
+          "y": 737
+        },
+        {
+          "x": 889,
+          "y": 736
+        }
+      ]
+    },
+    {
+      "description": "et",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1072,
+          "y": 709
+        },
+        {
+          "x": 1096,
+          "y": 709
+        },
+        {
+          "x": 1096,
+          "y": 737
+        },
+        {
+          "x": 1072,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": "les",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1109,
+          "y": 709
+        },
+        {
+          "x": 1149,
+          "y": 709
+        },
+        {
+          "x": 1149,
+          "y": 737
+        },
+        {
+          "x": 1109,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": "2",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1163,
+          "y": 709
+        },
+        {
+          "x": 1175,
+          "y": 709
+        },
+        {
+          "x": 1175,
+          "y": 737
+        },
+        {
+          "x": 1163,
+          "y": 737
+        }
+      ]
+    },
+    {
+      "description": "bras",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1189,
+          "y": 710
+        },
+        {
+          "x": 1242,
+          "y": 710
+        },
+        {
+          "x": 1242,
+          "y": 738
+        },
+        {
+          "x": 1189,
+          "y": 738
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1246,
+          "y": 710
+        },
+        {
+          "x": 1254,
+          "y": 710
+        },
+        {
+          "x": 1254,
+          "y": 738
+        },
+        {
+          "x": 1246,
+          "y": 738
+        }
+      ]
+    },
+    {
+      "description": "supports",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1257,
+          "y": 709
+        },
+        {
+          "x": 1365,
+          "y": 710
+        },
+        {
+          "x": 1365,
+          "y": 739
+        },
+        {
+          "x": 1257,
+          "y": 738
+        }
+      ]
+    },
+    {
+      "description": "7",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1379,
+          "y": 711
+        },
+        {
+          "x": 1394,
+          "y": 711
+        },
+        {
+          "x": 1394,
+          "y": 739
+        },
+        {
+          "x": 1379,
+          "y": 739
+        }
+      ]
+    },
+    {
+      "description": "per",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1405,
+          "y": 711
+        },
+        {
+          "x": 1446,
+          "y": 711
+        },
+        {
+          "x": 1446,
+          "y": 739
+        },
+        {
+          "x": 1405,
+          "y": 739
+        }
+      ]
+    },
+    {
+      "description": "mettent",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 269,
+          "y": 743
+        },
+        {
+          "x": 365,
+          "y": 743
+        },
+        {
+          "x": 365,
+          "y": 770
+        },
+        {
+          "x": 269,
+          "y": 770
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 375,
+          "y": 743
+        },
+        {
+          "x": 400,
+          "y": 743
+        },
+        {
+          "x": 400,
+          "y": 770
+        },
+        {
+          "x": 375,
+          "y": 770
+        }
+      ]
+    },
+    {
+      "description": "montage",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 412,
+          "y": 743
+        },
+        {
+          "x": 516,
+          "y": 743
+        },
+        {
+          "x": 516,
+          "y": 770
+        },
+        {
+          "x": 412,
+          "y": 770
+        }
+      ]
+    },
+    {
+      "description": "d'\u00e9quipements",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 528,
+          "y": 743
+        },
+        {
+          "x": 713,
+          "y": 744
+        },
+        {
+          "x": 713,
+          "y": 772
+        },
+        {
+          "x": 528,
+          "y": 771
+        }
+      ]
+    },
+    {
+      "description": "particuliers",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 727,
+          "y": 744
+        },
+        {
+          "x": 876,
+          "y": 745
+        },
+        {
+          "x": 876,
+          "y": 773
+        },
+        {
+          "x": 727,
+          "y": 772
+        }
+      ]
+    },
+    {
+      "description": "ainsi",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 889,
+          "y": 745
+        },
+        {
+          "x": 953,
+          "y": 745
+        },
+        {
+          "x": 953,
+          "y": 772
+        },
+        {
+          "x": 889,
+          "y": 772
+        }
+      ]
+    },
+    {
+      "description": "que",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 967,
+          "y": 745
+        },
+        {
+          "x": 1010,
+          "y": 745
+        },
+        {
+          "x": 1010,
+          "y": 772
+        },
+        {
+          "x": 967,
+          "y": 772
+        }
+      ]
+    },
+    {
+      "description": "du",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1022,
+          "y": 745
+        },
+        {
+          "x": 1053,
+          "y": 745
+        },
+        {
+          "x": 1053,
+          "y": 773
+        },
+        {
+          "x": 1022,
+          "y": 773
+        }
+      ]
+    },
+    {
+      "description": "contre",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1065,
+          "y": 746
+        },
+        {
+          "x": 1144,
+          "y": 746
+        },
+        {
+          "x": 1144,
+          "y": 773
+        },
+        {
+          "x": 1065,
+          "y": 773
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1145,
+          "y": 746
+        },
+        {
+          "x": 1154,
+          "y": 746
+        },
+        {
+          "x": 1154,
+          "y": 773
+        },
+        {
+          "x": 1145,
+          "y": 773
+        }
+      ]
+    },
+    {
+      "description": "palier",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1155,
+          "y": 746
+        },
+        {
+          "x": 1231,
+          "y": 746
+        },
+        {
+          "x": 1231,
+          "y": 773
+        },
+        {
+          "x": 1155,
+          "y": 773
+        }
+      ]
+    },
+    {
+      "description": "pour",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1242,
+          "y": 746
+        },
+        {
+          "x": 1297,
+          "y": 746
+        },
+        {
+          "x": 1297,
+          "y": 773
+        },
+        {
+          "x": 1242,
+          "y": 773
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1307,
+          "y": 747
+        },
+        {
+          "x": 1332,
+          "y": 747
+        },
+        {
+          "x": 1332,
+          "y": 774
+        },
+        {
+          "x": 1307,
+          "y": 774
+        }
+      ]
+    },
+    {
+      "description": "guidage",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1348,
+          "y": 747
+        },
+        {
+          "x": 1449,
+          "y": 747
+        },
+        {
+          "x": 1449,
+          "y": 774
+        },
+        {
+          "x": 1348,
+          "y": 774
+        }
+      ]
+    },
+    {
+      "description": "des",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 267,
+          "y": 776
+        },
+        {
+          "x": 313,
+          "y": 776
+        },
+        {
+          "x": 313,
+          "y": 803
+        },
+        {
+          "x": 267,
+          "y": 803
+        }
+      ]
+    },
+    {
+      "description": "longs",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 324,
+          "y": 776
+        },
+        {
+          "x": 394,
+          "y": 777
+        },
+        {
+          "x": 394,
+          "y": 804
+        },
+        {
+          "x": 324,
+          "y": 803
+        }
+      ]
+    },
+    {
+      "description": "arbres",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 406,
+          "y": 776
+        },
+        {
+          "x": 485,
+          "y": 777
+        },
+        {
+          "x": 485,
+          "y": 805
+        },
+        {
+          "x": 406,
+          "y": 804
+        }
+      ]
+    },
+    {
+      "description": "porte",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 496,
+          "y": 778
+        },
+        {
+          "x": 560,
+          "y": 779
+        },
+        {
+          "x": 560,
+          "y": 806
+        },
+        {
+          "x": 496,
+          "y": 805
+        }
+      ]
+    },
+    {
+      "description": "-",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 562,
+          "y": 778
+        },
+        {
+          "x": 571,
+          "y": 778
+        },
+        {
+          "x": 571,
+          "y": 805
+        },
+        {
+          "x": 562,
+          "y": 805
+        }
+      ]
+    },
+    {
+      "description": "fraises",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 573,
+          "y": 778
+        },
+        {
+          "x": 663,
+          "y": 779
+        },
+        {
+          "x": 663,
+          "y": 807
+        },
+        {
+          "x": 573,
+          "y": 806
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 664,
+          "y": 779
+        },
+        {
+          "x": 674,
+          "y": 779
+        },
+        {
+          "x": 674,
+          "y": 806
+        },
+        {
+          "x": 664,
+          "y": 806
+        }
+      ]
+    },
+    {
+      "description": "B\u00c2TI",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 264,
+          "y": 958
+        },
+        {
+          "x": 334,
+          "y": 959
+        },
+        {
+          "x": 333,
+          "y": 988
+        },
+        {
+          "x": 264,
+          "y": 987
+        }
+      ]
+    },
+    {
+      "description": "Le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 263,
+          "y": 1024
+        },
+        {
+          "x": 298,
+          "y": 1024
+        },
+        {
+          "x": 298,
+          "y": 1051
+        },
+        {
+          "x": 263,
+          "y": 1051
+        }
+      ]
+    },
+    {
+      "description": "b\u00e2ti",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 312,
+          "y": 1024
+        },
+        {
+          "x": 361,
+          "y": 1024
+        },
+        {
+          "x": 361,
+          "y": 1051
+        },
+        {
+          "x": 312,
+          "y": 1051
+        }
+      ]
+    },
+    {
+      "description": "en",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 377,
+          "y": 1024
+        },
+        {
+          "x": 406,
+          "y": 1024
+        },
+        {
+          "x": 406,
+          "y": 1051
+        },
+        {
+          "x": 377,
+          "y": 1051
+        }
+      ]
+    },
+    {
+      "description": "fonte",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 420,
+          "y": 1024
+        },
+        {
+          "x": 483,
+          "y": 1024
+        },
+        {
+          "x": 483,
+          "y": 1051
+        },
+        {
+          "x": 420,
+          "y": 1051
+        }
+      ]
+    },
+    {
+      "description": "sp\u00e9ciale",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 499,
+          "y": 1024
+        },
+        {
+          "x": 608,
+          "y": 1024
+        },
+        {
+          "x": 608,
+          "y": 1052
+        },
+        {
+          "x": 499,
+          "y": 1052
+        }
+      ]
+    },
+    {
+      "description": "tr\u00e8s",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 624,
+          "y": 1025
+        },
+        {
+          "x": 671,
+          "y": 1025
+        },
+        {
+          "x": 671,
+          "y": 1052
+        },
+        {
+          "x": 624,
+          "y": 1052
+        }
+      ]
+    },
+    {
+      "description": "dure",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 686,
+          "y": 1025
+        },
+        {
+          "x": 740,
+          "y": 1025
+        },
+        {
+          "x": 740,
+          "y": 1052
+        },
+        {
+          "x": 686,
+          "y": 1052
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 744,
+          "y": 1025
+        },
+        {
+          "x": 748,
+          "y": 1025
+        },
+        {
+          "x": 748,
+          "y": 1052
+        },
+        {
+          "x": 744,
+          "y": 1052
+        }
+      ]
+    },
+    {
+      "description": "fortement",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 765,
+          "y": 1025
+        },
+        {
+          "x": 885,
+          "y": 1025
+        },
+        {
+          "x": 885,
+          "y": 1053
+        },
+        {
+          "x": 765,
+          "y": 1053
+        }
+      ]
+    },
+    {
+      "description": "nervur\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 899,
+          "y": 1026
+        },
+        {
+          "x": 996,
+          "y": 1026
+        },
+        {
+          "x": 996,
+          "y": 1053
+        },
+        {
+          "x": 899,
+          "y": 1053
+        }
+      ]
+    },
+    {
+      "description": "et",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1010,
+          "y": 1026
+        },
+        {
+          "x": 1032,
+          "y": 1026
+        },
+        {
+          "x": 1032,
+          "y": 1054
+        },
+        {
+          "x": 1010,
+          "y": 1054
+        }
+      ]
+    },
+    {
+      "description": "d'un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1047,
+          "y": 1027
+        },
+        {
+          "x": 1101,
+          "y": 1027
+        },
+        {
+          "x": 1101,
+          "y": 1054
+        },
+        {
+          "x": 1047,
+          "y": 1054
+        }
+      ]
+    },
+    {
+      "description": "seul",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1116,
+          "y": 1027
+        },
+        {
+          "x": 1169,
+          "y": 1027
+        },
+        {
+          "x": 1169,
+          "y": 1054
+        },
+        {
+          "x": 1116,
+          "y": 1054
+        }
+      ]
+    },
+    {
+      "description": "bloc",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1183,
+          "y": 1027
+        },
+        {
+          "x": 1238,
+          "y": 1027
+        },
+        {
+          "x": 1238,
+          "y": 1054
+        },
+        {
+          "x": 1183,
+          "y": 1054
+        }
+      ]
+    },
+    {
+      "description": "avec",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1254,
+          "y": 1027
+        },
+        {
+          "x": 1312,
+          "y": 1027
+        },
+        {
+          "x": 1312,
+          "y": 1055
+        },
+        {
+          "x": 1254,
+          "y": 1055
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1325,
+          "y": 1028
+        },
+        {
+          "x": 1349,
+          "y": 1028
+        },
+        {
+          "x": 1349,
+          "y": 1055
+        },
+        {
+          "x": 1325,
+          "y": 1055
+        }
+      ]
+    },
+    {
+      "description": "socle",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1364,
+          "y": 1028
+        },
+        {
+          "x": 1432,
+          "y": 1028
+        },
+        {
+          "x": 1432,
+          "y": 1055
+        },
+        {
+          "x": 1364,
+          "y": 1055
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1435,
+          "y": 1028
+        },
+        {
+          "x": 1441,
+          "y": 1028
+        },
+        {
+          "x": 1441,
+          "y": 1055
+        },
+        {
+          "x": 1435,
+          "y": 1055
+        }
+      ]
+    },
+    {
+      "description": "renferme",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 262,
+          "y": 1061
+        },
+        {
+          "x": 374,
+          "y": 1062
+        },
+        {
+          "x": 374,
+          "y": 1090
+        },
+        {
+          "x": 262,
+          "y": 1089
+        }
+      ]
+    },
+    {
+      "description": "dans",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 389,
+          "y": 1061
+        },
+        {
+          "x": 448,
+          "y": 1061
+        },
+        {
+          "x": 448,
+          "y": 1089
+        },
+        {
+          "x": 389,
+          "y": 1089
+        }
+      ]
+    },
+    {
+      "description": "sa",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 463,
+          "y": 1061
+        },
+        {
+          "x": 492,
+          "y": 1061
+        },
+        {
+          "x": 492,
+          "y": 1090
+        },
+        {
+          "x": 463,
+          "y": 1090
+        }
+      ]
+    },
+    {
+      "description": "partie",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 505,
+          "y": 1062
+        },
+        {
+          "x": 581,
+          "y": 1062
+        },
+        {
+          "x": 581,
+          "y": 1090
+        },
+        {
+          "x": 505,
+          "y": 1090
+        }
+      ]
+    },
+    {
+      "description": "inf\u00e9rieure",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 594,
+          "y": 1062
+        },
+        {
+          "x": 720,
+          "y": 1063
+        },
+        {
+          "x": 720,
+          "y": 1092
+        },
+        {
+          "x": 594,
+          "y": 1091
+        }
+      ]
+    },
+    {
+      "description": "les",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 733,
+          "y": 1063
+        },
+        {
+          "x": 773,
+          "y": 1063
+        },
+        {
+          "x": 773,
+          "y": 1091
+        },
+        {
+          "x": 733,
+          "y": 1091
+        }
+      ]
+    },
+    {
+      "description": "moteurs",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 787,
+          "y": 1063
+        },
+        {
+          "x": 885,
+          "y": 1063
+        },
+        {
+          "x": 885,
+          "y": 1091
+        },
+        {
+          "x": 787,
+          "y": 1091
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 901,
+          "y": 1063
+        },
+        {
+          "x": 929,
+          "y": 1063
+        },
+        {
+          "x": 929,
+          "y": 1092
+        },
+        {
+          "x": 901,
+          "y": 1092
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 943,
+          "y": 1064
+        },
+        {
+          "x": 967,
+          "y": 1064
+        },
+        {
+          "x": 967,
+          "y": 1092
+        },
+        {
+          "x": 943,
+          "y": 1092
+        }
+      ]
+    },
+    {
+      "description": "broche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 980,
+          "y": 1064
+        },
+        {
+          "x": 1065,
+          "y": 1064
+        },
+        {
+          "x": 1065,
+          "y": 1092
+        },
+        {
+          "x": 980,
+          "y": 1092
+        }
+      ]
+    },
+    {
+      "description": "et",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1080,
+          "y": 1064
+        },
+        {
+          "x": 1104,
+          "y": 1064
+        },
+        {
+          "x": 1104,
+          "y": 1092
+        },
+        {
+          "x": 1080,
+          "y": 1092
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1119,
+          "y": 1065
+        },
+        {
+          "x": 1146,
+          "y": 1065
+        },
+        {
+          "x": 1146,
+          "y": 1093
+        },
+        {
+          "x": 1119,
+          "y": 1093
+        }
+      ]
+    },
+    {
+      "description": "l'avance",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1162,
+          "y": 1065
+        },
+        {
+          "x": 1271,
+          "y": 1066
+        },
+        {
+          "x": 1271,
+          "y": 1094
+        },
+        {
+          "x": 1162,
+          "y": 1093
+        }
+      ]
+    },
+    {
+      "description": "rapide",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1285,
+          "y": 1065
+        },
+        {
+          "x": 1366,
+          "y": 1065
+        },
+        {
+          "x": 1366,
+          "y": 1094
+        },
+        {
+          "x": 1285,
+          "y": 1094
+        }
+      ]
+    },
+    {
+      "description": "ainsi",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1378,
+          "y": 1066
+        },
+        {
+          "x": 1441,
+          "y": 1066
+        },
+        {
+          "x": 1441,
+          "y": 1094
+        },
+        {
+          "x": 1378,
+          "y": 1094
+        }
+      ]
+    },
+    {
+      "description": "que",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 262,
+          "y": 1099
+        },
+        {
+          "x": 308,
+          "y": 1099
+        },
+        {
+          "x": 308,
+          "y": 1127
+        },
+        {
+          "x": 262,
+          "y": 1127
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 319,
+          "y": 1099
+        },
+        {
+          "x": 343,
+          "y": 1099
+        },
+        {
+          "x": 343,
+          "y": 1127
+        },
+        {
+          "x": 319,
+          "y": 1127
+        }
+      ]
+    },
+    {
+      "description": "r\u00e9servoir",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 355,
+          "y": 1099
+        },
+        {
+          "x": 472,
+          "y": 1100
+        },
+        {
+          "x": 472,
+          "y": 1129
+        },
+        {
+          "x": 355,
+          "y": 1128
+        }
+      ]
+    },
+    {
+      "description": "du",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 483,
+          "y": 1100
+        },
+        {
+          "x": 511,
+          "y": 1100
+        },
+        {
+          "x": 511,
+          "y": 1128
+        },
+        {
+          "x": 483,
+          "y": 1128
+        }
+      ]
+    },
+    {
+      "description": "liquide",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 524,
+          "y": 1100
+        },
+        {
+          "x": 614,
+          "y": 1101
+        },
+        {
+          "x": 614,
+          "y": 1130
+        },
+        {
+          "x": 524,
+          "y": 1129
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 624,
+          "y": 1101
+        },
+        {
+          "x": 653,
+          "y": 1101
+        },
+        {
+          "x": 653,
+          "y": 1129
+        },
+        {
+          "x": 624,
+          "y": 1129
+        }
+      ]
+    },
+    {
+      "description": "r\u00e9frig\u00e9ration",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 664,
+          "y": 1100
+        },
+        {
+          "x": 825,
+          "y": 1101
+        },
+        {
+          "x": 825,
+          "y": 1130
+        },
+        {
+          "x": 664,
+          "y": 1129
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 830,
+          "y": 1102
+        },
+        {
+          "x": 836,
+          "y": 1102
+        },
+        {
+          "x": 836,
+          "y": 1130
+        },
+        {
+          "x": 830,
+          "y": 1130
+        }
+      ]
+    },
+    {
+      "description": "Dans",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 262,
+          "y": 1154
+        },
+        {
+          "x": 328,
+          "y": 1154
+        },
+        {
+          "x": 328,
+          "y": 1182
+        },
+        {
+          "x": 262,
+          "y": 1182
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 341,
+          "y": 1154
+        },
+        {
+          "x": 366,
+          "y": 1154
+        },
+        {
+          "x": 366,
+          "y": 1182
+        },
+        {
+          "x": 341,
+          "y": 1182
+        }
+      ]
+    },
+    {
+      "description": "partie",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 378,
+          "y": 1154
+        },
+        {
+          "x": 454,
+          "y": 1155
+        },
+        {
+          "x": 454,
+          "y": 1184
+        },
+        {
+          "x": 378,
+          "y": 1183
+        }
+      ]
+    },
+    {
+      "description": "sup\u00e9rieure",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 467,
+          "y": 1155
+        },
+        {
+          "x": 602,
+          "y": 1156
+        },
+        {
+          "x": 602,
+          "y": 1185
+        },
+        {
+          "x": 467,
+          "y": 1184
+        }
+      ]
+    },
+    {
+      "description": "se",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 617,
+          "y": 1156
+        },
+        {
+          "x": 645,
+          "y": 1156
+        },
+        {
+          "x": 645,
+          "y": 1184
+        },
+        {
+          "x": 617,
+          "y": 1184
+        }
+      ]
+    },
+    {
+      "description": "trouve",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 657,
+          "y": 1156
+        },
+        {
+          "x": 737,
+          "y": 1157
+        },
+        {
+          "x": 737,
+          "y": 1186
+        },
+        {
+          "x": 657,
+          "y": 1185
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 751,
+          "y": 1157
+        },
+        {
+          "x": 775,
+          "y": 1157
+        },
+        {
+          "x": 775,
+          "y": 1185
+        },
+        {
+          "x": 751,
+          "y": 1185
+        }
+      ]
+    },
+    {
+      "description": "bo\u00eete",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 787,
+          "y": 1157
+        },
+        {
+          "x": 853,
+          "y": 1157
+        },
+        {
+          "x": 853,
+          "y": 1186
+        },
+        {
+          "x": 787,
+          "y": 1186
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 866,
+          "y": 1158
+        },
+        {
+          "x": 894,
+          "y": 1158
+        },
+        {
+          "x": 894,
+          "y": 1186
+        },
+        {
+          "x": 866,
+          "y": 1186
+        }
+      ]
+    },
+    {
+      "description": "vitesses",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 908,
+          "y": 1158
+        },
+        {
+          "x": 1018,
+          "y": 1159
+        },
+        {
+          "x": 1018,
+          "y": 1188
+        },
+        {
+          "x": 908,
+          "y": 1187
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1022,
+          "y": 1159
+        },
+        {
+          "x": 1026,
+          "y": 1159
+        },
+        {
+          "x": 1026,
+          "y": 1187
+        },
+        {
+          "x": 1022,
+          "y": 1187
+        }
+      ]
+    },
+    {
+      "description": "dont",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1041,
+          "y": 1159
+        },
+        {
+          "x": 1096,
+          "y": 1159
+        },
+        {
+          "x": 1096,
+          "y": 1188
+        },
+        {
+          "x": 1041,
+          "y": 1188
+        }
+      ]
+    },
+    {
+      "description": "tous",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1109,
+          "y": 1160
+        },
+        {
+          "x": 1162,
+          "y": 1160
+        },
+        {
+          "x": 1162,
+          "y": 1188
+        },
+        {
+          "x": 1109,
+          "y": 1188
+        }
+      ]
+    },
+    {
+      "description": "les",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1177,
+          "y": 1160
+        },
+        {
+          "x": 1216,
+          "y": 1160
+        },
+        {
+          "x": 1216,
+          "y": 1189
+        },
+        {
+          "x": 1177,
+          "y": 1189
+        }
+      ]
+    },
+    {
+      "description": "engrenages",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1230,
+          "y": 1160
+        },
+        {
+          "x": 1376,
+          "y": 1161
+        },
+        {
+          "x": 1376,
+          "y": 1190
+        },
+        {
+          "x": 1230,
+          "y": 1189
+        }
+      ]
+    },
+    {
+      "description": "sont",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1388,
+          "y": 1162
+        },
+        {
+          "x": 1444,
+          "y": 1162
+        },
+        {
+          "x": 1444,
+          "y": 1190
+        },
+        {
+          "x": 1388,
+          "y": 1190
+        }
+      ]
+    },
+    {
+      "description": "en",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 262,
+          "y": 1192
+        },
+        {
+          "x": 292,
+          "y": 1192
+        },
+        {
+          "x": 292,
+          "y": 1221
+        },
+        {
+          "x": 262,
+          "y": 1221
+        }
+      ]
+    },
+    {
+      "description": "acier",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 308,
+          "y": 1192
+        },
+        {
+          "x": 373,
+          "y": 1192
+        },
+        {
+          "x": 373,
+          "y": 1221
+        },
+        {
+          "x": 308,
+          "y": 1221
+        }
+      ]
+    },
+    {
+      "description": "tremp\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 387,
+          "y": 1192
+        },
+        {
+          "x": 472,
+          "y": 1193
+        },
+        {
+          "x": 472,
+          "y": 1223
+        },
+        {
+          "x": 387,
+          "y": 1222
+        }
+      ]
+    },
+    {
+      "description": "rectifi\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 487,
+          "y": 1193
+        },
+        {
+          "x": 586,
+          "y": 1194
+        },
+        {
+          "x": 586,
+          "y": 1224
+        },
+        {
+          "x": 487,
+          "y": 1223
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 590,
+          "y": 1194
+        },
+        {
+          "x": 594,
+          "y": 1194
+        },
+        {
+          "x": 594,
+          "y": 1223
+        },
+        {
+          "x": 590,
+          "y": 1223
+        }
+      ]
+    },
+    {
+      "description": "Cette",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 611,
+          "y": 1194
+        },
+        {
+          "x": 680,
+          "y": 1194
+        },
+        {
+          "x": 680,
+          "y": 1223
+        },
+        {
+          "x": 611,
+          "y": 1223
+        }
+      ]
+    },
+    {
+      "description": "bo\u00eete",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 695,
+          "y": 1195
+        },
+        {
+          "x": 758,
+          "y": 1195
+        },
+        {
+          "x": 758,
+          "y": 1224
+        },
+        {
+          "x": 695,
+          "y": 1224
+        }
+      ]
+    },
+    {
+      "description": "combin\u00e9e",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 774,
+          "y": 1195
+        },
+        {
+          "x": 893,
+          "y": 1196
+        },
+        {
+          "x": 893,
+          "y": 1226
+        },
+        {
+          "x": 774,
+          "y": 1225
+        }
+      ]
+    },
+    {
+      "description": "avec",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 909,
+          "y": 1196
+        },
+        {
+          "x": 967,
+          "y": 1196
+        },
+        {
+          "x": 967,
+          "y": 1225
+        },
+        {
+          "x": 909,
+          "y": 1225
+        }
+      ]
+    },
+    {
+      "description": "un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 982,
+          "y": 1197
+        },
+        {
+          "x": 1010,
+          "y": 1197
+        },
+        {
+          "x": 1010,
+          "y": 1226
+        },
+        {
+          "x": 982,
+          "y": 1226
+        }
+      ]
+    },
+    {
+      "description": "variateur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1026,
+          "y": 1196
+        },
+        {
+          "x": 1144,
+          "y": 1197
+        },
+        {
+          "x": 1144,
+          "y": 1227
+        },
+        {
+          "x": 1026,
+          "y": 1226
+        }
+      ]
+    },
+    {
+      "description": "plac\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1157,
+          "y": 1198
+        },
+        {
+          "x": 1228,
+          "y": 1198
+        },
+        {
+          "x": 1228,
+          "y": 1227
+        },
+        {
+          "x": 1157,
+          "y": 1227
+        }
+      ]
+    },
+    {
+      "description": "\u00e9galement",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1243,
+          "y": 1198
+        },
+        {
+          "x": 1372,
+          "y": 1199
+        },
+        {
+          "x": 1372,
+          "y": 1229
+        },
+        {
+          "x": 1243,
+          "y": 1228
+        }
+      ]
+    },
+    {
+      "description": "dans",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1383,
+          "y": 1199
+        },
+        {
+          "x": 1442,
+          "y": 1199
+        },
+        {
+          "x": 1442,
+          "y": 1229
+        },
+        {
+          "x": 1383,
+          "y": 1229
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 260,
+          "y": 1233
+        },
+        {
+          "x": 286,
+          "y": 1233
+        },
+        {
+          "x": 286,
+          "y": 1263
+        },
+        {
+          "x": 260,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "b\u00e2ti",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 298,
+          "y": 1233
+        },
+        {
+          "x": 346,
+          "y": 1233
+        },
+        {
+          "x": 346,
+          "y": 1263
+        },
+        {
+          "x": 298,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 351,
+          "y": 1233
+        },
+        {
+          "x": 355,
+          "y": 1233
+        },
+        {
+          "x": 355,
+          "y": 1263
+        },
+        {
+          "x": 351,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "donne",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 370,
+          "y": 1233
+        },
+        {
+          "x": 444,
+          "y": 1233
+        },
+        {
+          "x": 444,
+          "y": 1263
+        },
+        {
+          "x": 370,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "une",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 456,
+          "y": 1233
+        },
+        {
+          "x": 501,
+          "y": 1233
+        },
+        {
+          "x": 501,
+          "y": 1263
+        },
+        {
+          "x": 456,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "gamme",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 513,
+          "y": 1233
+        },
+        {
+          "x": 597,
+          "y": 1233
+        },
+        {
+          "x": 597,
+          "y": 1263
+        },
+        {
+          "x": 513,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 610,
+          "y": 1233
+        },
+        {
+          "x": 637,
+          "y": 1233
+        },
+        {
+          "x": 637,
+          "y": 1263
+        },
+        {
+          "x": 610,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "vitesses",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 649,
+          "y": 1233
+        },
+        {
+          "x": 759,
+          "y": 1233
+        },
+        {
+          "x": 759,
+          "y": 1263
+        },
+        {
+          "x": 649,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "tr\u00e8s",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 772,
+          "y": 1233
+        },
+        {
+          "x": 820,
+          "y": 1233
+        },
+        {
+          "x": 820,
+          "y": 1263
+        },
+        {
+          "x": 772,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "\u00e9tendue",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 834,
+          "y": 1233
+        },
+        {
+          "x": 932,
+          "y": 1233
+        },
+        {
+          "x": 932,
+          "y": 1263
+        },
+        {
+          "x": 834,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 945,
+          "y": 1233
+        },
+        {
+          "x": 974,
+          "y": 1233
+        },
+        {
+          "x": 974,
+          "y": 1263
+        },
+        {
+          "x": 945,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "58",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 986,
+          "y": 1233
+        },
+        {
+          "x": 1013,
+          "y": 1233
+        },
+        {
+          "x": 1013,
+          "y": 1263
+        },
+        {
+          "x": 986,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "\u00e0",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1027,
+          "y": 1233
+        },
+        {
+          "x": 1040,
+          "y": 1233
+        },
+        {
+          "x": 1040,
+          "y": 1263
+        },
+        {
+          "x": 1027,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "2000",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1053,
+          "y": 1233
+        },
+        {
+          "x": 1111,
+          "y": 1233
+        },
+        {
+          "x": 1111,
+          "y": 1263
+        },
+        {
+          "x": 1053,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "t",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1122,
+          "y": 1233
+        },
+        {
+          "x": 1132,
+          "y": 1233
+        },
+        {
+          "x": 1132,
+          "y": 1263
+        },
+        {
+          "x": 1122,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "/",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1133,
+          "y": 1233
+        },
+        {
+          "x": 1148,
+          "y": 1233
+        },
+        {
+          "x": 1148,
+          "y": 1263
+        },
+        {
+          "x": 1133,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "min",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1153,
+          "y": 1233
+        },
+        {
+          "x": 1198,
+          "y": 1233
+        },
+        {
+          "x": 1198,
+          "y": 1263
+        },
+        {
+          "x": 1153,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1201,
+          "y": 1233
+        },
+        {
+          "x": 1207,
+          "y": 1233
+        },
+        {
+          "x": 1207,
+          "y": 1263
+        },
+        {
+          "x": 1201,
+          "y": 1263
+        }
+      ]
+    },
+    {
+      "description": "MISE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 262,
+          "y": 1425
+        },
+        {
+          "x": 326,
+          "y": 1425
+        },
+        {
+          "x": 326,
+          "y": 1448
+        },
+        {
+          "x": 262,
+          "y": 1448
+        }
+      ]
+    },
+    {
+      "description": "EN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 340,
+          "y": 1425
+        },
+        {
+          "x": 378,
+          "y": 1425
+        },
+        {
+          "x": 378,
+          "y": 1448
+        },
+        {
+          "x": 340,
+          "y": 1448
+        }
+      ]
+    },
+    {
+      "description": "MARCHE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 390,
+          "y": 1425
+        },
+        {
+          "x": 510,
+          "y": 1425
+        },
+        {
+          "x": 510,
+          "y": 1448
+        },
+        {
+          "x": 390,
+          "y": 1448
+        }
+      ]
+    },
+    {
+      "description": "L'interrupteur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 263,
+          "y": 1479
+        },
+        {
+          "x": 447,
+          "y": 1480
+        },
+        {
+          "x": 447,
+          "y": 1509
+        },
+        {
+          "x": 263,
+          "y": 1508
+        }
+      ]
+    },
+    {
+      "description": "22",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 461,
+          "y": 1481
+        },
+        {
+          "x": 489,
+          "y": 1481
+        },
+        {
+          "x": 489,
+          "y": 1509
+        },
+        {
+          "x": 461,
+          "y": 1509
+        }
+      ]
+    },
+    {
+      "description": "plac\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 504,
+          "y": 1481
+        },
+        {
+          "x": 576,
+          "y": 1481
+        },
+        {
+          "x": 576,
+          "y": 1509
+        },
+        {
+          "x": 504,
+          "y": 1509
+        }
+      ]
+    },
+    {
+      "description": "dans",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 590,
+          "y": 1481
+        },
+        {
+          "x": 647,
+          "y": 1481
+        },
+        {
+          "x": 647,
+          "y": 1509
+        },
+        {
+          "x": 590,
+          "y": 1509
+        }
+      ]
+    },
+    {
+      "description": "un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 663,
+          "y": 1482
+        },
+        {
+          "x": 690,
+          "y": 1482
+        },
+        {
+          "x": 690,
+          "y": 1510
+        },
+        {
+          "x": 663,
+          "y": 1510
+        }
+      ]
+    },
+    {
+      "description": "coffret",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 707,
+          "y": 1482
+        },
+        {
+          "x": 790,
+          "y": 1482
+        },
+        {
+          "x": 790,
+          "y": 1510
+        },
+        {
+          "x": 707,
+          "y": 1510
+        }
+      ]
+    },
+    {
+      "description": "du",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 805,
+          "y": 1482
+        },
+        {
+          "x": 833,
+          "y": 1482
+        },
+        {
+          "x": 833,
+          "y": 1510
+        },
+        {
+          "x": 805,
+          "y": 1510
+        }
+      ]
+    },
+    {
+      "description": "c\u00f4t\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 849,
+          "y": 1483
+        },
+        {
+          "x": 902,
+          "y": 1483
+        },
+        {
+          "x": 902,
+          "y": 1511
+        },
+        {
+          "x": 849,
+          "y": 1511
+        }
+      ]
+    },
+    {
+      "description": "droit",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 917,
+          "y": 1483
+        },
+        {
+          "x": 975,
+          "y": 1483
+        },
+        {
+          "x": 975,
+          "y": 1511
+        },
+        {
+          "x": 917,
+          "y": 1511
+        }
+      ]
+    },
+    {
+      "description": "du",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 992,
+          "y": 1483
+        },
+        {
+          "x": 1019,
+          "y": 1483
+        },
+        {
+          "x": 1019,
+          "y": 1511
+        },
+        {
+          "x": 992,
+          "y": 1511
+        }
+      ]
+    },
+    {
+      "description": "b\u00e2ti",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1034,
+          "y": 1483
+        },
+        {
+          "x": 1082,
+          "y": 1483
+        },
+        {
+          "x": 1082,
+          "y": 1512
+        },
+        {
+          "x": 1034,
+          "y": 1512
+        }
+      ]
+    },
+    {
+      "description": "permet",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1098,
+          "y": 1484
+        },
+        {
+          "x": 1183,
+          "y": 1484
+        },
+        {
+          "x": 1183,
+          "y": 1512
+        },
+        {
+          "x": 1098,
+          "y": 1512
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1197,
+          "y": 1484
+        },
+        {
+          "x": 1221,
+          "y": 1484
+        },
+        {
+          "x": 1221,
+          "y": 1512
+        },
+        {
+          "x": 1197,
+          "y": 1512
+        }
+      ]
+    },
+    {
+      "description": "mise",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1236,
+          "y": 1484
+        },
+        {
+          "x": 1295,
+          "y": 1484
+        },
+        {
+          "x": 1295,
+          "y": 1513
+        },
+        {
+          "x": 1236,
+          "y": 1513
+        }
+      ]
+    },
+    {
+      "description": "en",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1310,
+          "y": 1485
+        },
+        {
+          "x": 1338,
+          "y": 1485
+        },
+        {
+          "x": 1338,
+          "y": 1513
+        },
+        {
+          "x": 1310,
+          "y": 1513
+        }
+      ]
+    },
+    {
+      "description": "marche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1353,
+          "y": 1485
+        },
+        {
+          "x": 1441,
+          "y": 1485
+        },
+        {
+          "x": 1441,
+          "y": 1513
+        },
+        {
+          "x": 1353,
+          "y": 1513
+        }
+      ]
+    },
+    {
+      "description": "et",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 262,
+          "y": 1522
+        },
+        {
+          "x": 290,
+          "y": 1522
+        },
+        {
+          "x": 290,
+          "y": 1552
+        },
+        {
+          "x": 262,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 300,
+          "y": 1522
+        },
+        {
+          "x": 325,
+          "y": 1522
+        },
+        {
+          "x": 325,
+          "y": 1552
+        },
+        {
+          "x": 300,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "changement",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 339,
+          "y": 1522
+        },
+        {
+          "x": 489,
+          "y": 1522
+        },
+        {
+          "x": 489,
+          "y": 1552
+        },
+        {
+          "x": 339,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "du",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 503,
+          "y": 1522
+        },
+        {
+          "x": 531,
+          "y": 1522
+        },
+        {
+          "x": 531,
+          "y": 1552
+        },
+        {
+          "x": 503,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "sens",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 545,
+          "y": 1522
+        },
+        {
+          "x": 603,
+          "y": 1522
+        },
+        {
+          "x": 603,
+          "y": 1552
+        },
+        {
+          "x": 545,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 617,
+          "y": 1522
+        },
+        {
+          "x": 644,
+          "y": 1522
+        },
+        {
+          "x": 644,
+          "y": 1552
+        },
+        {
+          "x": 617,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "rotation",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 659,
+          "y": 1522
+        },
+        {
+          "x": 757,
+          "y": 1522
+        },
+        {
+          "x": 757,
+          "y": 1552
+        },
+        {
+          "x": 659,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 771,
+          "y": 1522
+        },
+        {
+          "x": 799,
+          "y": 1522
+        },
+        {
+          "x": 799,
+          "y": 1552
+        },
+        {
+          "x": 771,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 813,
+          "y": 1522
+        },
+        {
+          "x": 837,
+          "y": 1522
+        },
+        {
+          "x": 837,
+          "y": 1552
+        },
+        {
+          "x": 813,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "broche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 850,
+          "y": 1522
+        },
+        {
+          "x": 934,
+          "y": 1522
+        },
+        {
+          "x": 934,
+          "y": 1552
+        },
+        {
+          "x": 850,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 938,
+          "y": 1522
+        },
+        {
+          "x": 943,
+          "y": 1522
+        },
+        {
+          "x": 943,
+          "y": 1552
+        },
+        {
+          "x": 938,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "Il",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 957,
+          "y": 1522
+        },
+        {
+          "x": 976,
+          "y": 1522
+        },
+        {
+          "x": 976,
+          "y": 1552
+        },
+        {
+          "x": 957,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "est",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 989,
+          "y": 1522
+        },
+        {
+          "x": 1028,
+          "y": 1522
+        },
+        {
+          "x": 1028,
+          "y": 1552
+        },
+        {
+          "x": 989,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "actionn\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1042,
+          "y": 1522
+        },
+        {
+          "x": 1152,
+          "y": 1522
+        },
+        {
+          "x": 1152,
+          "y": 1552
+        },
+        {
+          "x": 1042,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "par",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1165,
+          "y": 1522
+        },
+        {
+          "x": 1205,
+          "y": 1522
+        },
+        {
+          "x": 1205,
+          "y": 1552
+        },
+        {
+          "x": 1165,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1218,
+          "y": 1522
+        },
+        {
+          "x": 1246,
+          "y": 1522
+        },
+        {
+          "x": 1246,
+          "y": 1552
+        },
+        {
+          "x": 1218,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "levier",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1260,
+          "y": 1522
+        },
+        {
+          "x": 1335,
+          "y": 1522
+        },
+        {
+          "x": 1335,
+          "y": 1552
+        },
+        {
+          "x": 1260,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "15",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1348,
+          "y": 1522
+        },
+        {
+          "x": 1375,
+          "y": 1522
+        },
+        {
+          "x": 1375,
+          "y": 1552
+        },
+        {
+          "x": 1348,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "dont",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1384,
+          "y": 1522
+        },
+        {
+          "x": 1441,
+          "y": 1522
+        },
+        {
+          "x": 1441,
+          "y": 1552
+        },
+        {
+          "x": 1384,
+          "y": 1552
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 261,
+          "y": 1559
+        },
+        {
+          "x": 291,
+          "y": 1559
+        },
+        {
+          "x": 291,
+          "y": 1586
+        },
+        {
+          "x": 261,
+          "y": 1586
+        }
+      ]
+    },
+    {
+      "description": "position",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 302,
+          "y": 1559
+        },
+        {
+          "x": 409,
+          "y": 1559
+        },
+        {
+          "x": 409,
+          "y": 1586
+        },
+        {
+          "x": 302,
+          "y": 1586
+        }
+      ]
+    },
+    {
+      "description": "peut",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 423,
+          "y": 1559
+        },
+        {
+          "x": 478,
+          "y": 1559
+        },
+        {
+          "x": 478,
+          "y": 1586
+        },
+        {
+          "x": 423,
+          "y": 1586
+        }
+      ]
+    },
+    {
+      "description": "\u00eatre",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 493,
+          "y": 1560
+        },
+        {
+          "x": 542,
+          "y": 1560
+        },
+        {
+          "x": 542,
+          "y": 1587
+        },
+        {
+          "x": 493,
+          "y": 1587
+        }
+      ]
+    },
+    {
+      "description": "r\u00e9gl\u00e9e",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 557,
+          "y": 1560
+        },
+        {
+          "x": 637,
+          "y": 1560
+        },
+        {
+          "x": 637,
+          "y": 1587
+        },
+        {
+          "x": 557,
+          "y": 1587
+        }
+      ]
+    },
+    {
+      "description": "suivant",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 652,
+          "y": 1560
+        },
+        {
+          "x": 746,
+          "y": 1560
+        },
+        {
+          "x": 746,
+          "y": 1588
+        },
+        {
+          "x": 652,
+          "y": 1588
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 759,
+          "y": 1561
+        },
+        {
+          "x": 785,
+          "y": 1561
+        },
+        {
+          "x": 785,
+          "y": 1588
+        },
+        {
+          "x": 759,
+          "y": 1588
+        }
+      ]
+    },
+    {
+      "description": "position",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 798,
+          "y": 1561
+        },
+        {
+          "x": 902,
+          "y": 1561
+        },
+        {
+          "x": 902,
+          "y": 1588
+        },
+        {
+          "x": 798,
+          "y": 1588
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 918,
+          "y": 1561
+        },
+        {
+          "x": 946,
+          "y": 1561
+        },
+        {
+          "x": 946,
+          "y": 1588
+        },
+        {
+          "x": 918,
+          "y": 1588
+        }
+      ]
+    },
+    {
+      "description": "l'op\u00e9rateur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 961,
+          "y": 1561
+        },
+        {
+          "x": 1103,
+          "y": 1562
+        },
+        {
+          "x": 1103,
+          "y": 1590
+        },
+        {
+          "x": 961,
+          "y": 1589
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1106,
+          "y": 1562
+        },
+        {
+          "x": 1111,
+          "y": 1562
+        },
+        {
+          "x": 1111,
+          "y": 1589
+        },
+        {
+          "x": 1106,
+          "y": 1589
+        }
+      ]
+    },
+    {
+      "description": "Une",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1128,
+          "y": 1562
+        },
+        {
+          "x": 1176,
+          "y": 1562
+        },
+        {
+          "x": 1176,
+          "y": 1589
+        },
+        {
+          "x": 1128,
+          "y": 1589
+        }
+      ]
+    },
+    {
+      "description": "simple",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1193,
+          "y": 1563
+        },
+        {
+          "x": 1275,
+          "y": 1563
+        },
+        {
+          "x": 1275,
+          "y": 1590
+        },
+        {
+          "x": 1193,
+          "y": 1590
+        }
+      ]
+    },
+    {
+      "description": "vis",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1291,
+          "y": 1563
+        },
+        {
+          "x": 1330,
+          "y": 1563
+        },
+        {
+          "x": 1330,
+          "y": 1590
+        },
+        {
+          "x": 1291,
+          "y": 1590
+        }
+      ]
+    },
+    {
+      "description": "14",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1346,
+          "y": 1563
+        },
+        {
+          "x": 1373,
+          "y": 1563
+        },
+        {
+          "x": 1373,
+          "y": 1590
+        },
+        {
+          "x": 1346,
+          "y": 1590
+        }
+      ]
+    },
+    {
+      "description": "sert",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1386,
+          "y": 1563
+        },
+        {
+          "x": 1436,
+          "y": 1563
+        },
+        {
+          "x": 1436,
+          "y": 1591
+        },
+        {
+          "x": 1386,
+          "y": 1591
+        }
+      ]
+    },
+    {
+      "description": "\u00e0",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 264,
+          "y": 1596
+        },
+        {
+          "x": 279,
+          "y": 1596
+        },
+        {
+          "x": 279,
+          "y": 1623
+        },
+        {
+          "x": 264,
+          "y": 1623
+        }
+      ]
+    },
+    {
+      "description": "verrouiller",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 292,
+          "y": 1595
+        },
+        {
+          "x": 430,
+          "y": 1596
+        },
+        {
+          "x": 430,
+          "y": 1624
+        },
+        {
+          "x": 292,
+          "y": 1623
+        }
+      ]
+    },
+    {
+      "description": "ce",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 443,
+          "y": 1597
+        },
+        {
+          "x": 470,
+          "y": 1597
+        },
+        {
+          "x": 470,
+          "y": 1624
+        },
+        {
+          "x": 443,
+          "y": 1624
+        }
+      ]
+    },
+    {
+      "description": "levier",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 484,
+          "y": 1597
+        },
+        {
+          "x": 560,
+          "y": 1597
+        },
+        {
+          "x": 560,
+          "y": 1624
+        },
+        {
+          "x": 484,
+          "y": 1624
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 563,
+          "y": 1597
+        },
+        {
+          "x": 567,
+          "y": 1597
+        },
+        {
+          "x": 567,
+          "y": 1624
+        },
+        {
+          "x": 563,
+          "y": 1624
+        }
+      ]
+    },
+    {
+      "description": "assurant",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 583,
+          "y": 1597
+        },
+        {
+          "x": 692,
+          "y": 1598
+        },
+        {
+          "x": 692,
+          "y": 1626
+        },
+        {
+          "x": 583,
+          "y": 1625
+        }
+      ]
+    },
+    {
+      "description": "ainsi",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 706,
+          "y": 1598
+        },
+        {
+          "x": 767,
+          "y": 1598
+        },
+        {
+          "x": 767,
+          "y": 1625
+        },
+        {
+          "x": 706,
+          "y": 1625
+        }
+      ]
+    },
+    {
+      "description": "toujours",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 783,
+          "y": 1598
+        },
+        {
+          "x": 886,
+          "y": 1599
+        },
+        {
+          "x": 886,
+          "y": 1627
+        },
+        {
+          "x": 783,
+          "y": 1626
+        }
+      ]
+    },
+    {
+      "description": "un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 901,
+          "y": 1599
+        },
+        {
+          "x": 928,
+          "y": 1599
+        },
+        {
+          "x": 928,
+          "y": 1626
+        },
+        {
+          "x": 901,
+          "y": 1626
+        }
+      ]
+    },
+    {
+      "description": "sens",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 945,
+          "y": 1599
+        },
+        {
+          "x": 1002,
+          "y": 1599
+        },
+        {
+          "x": 1002,
+          "y": 1627
+        },
+        {
+          "x": 945,
+          "y": 1627
+        }
+      ]
+    },
+    {
+      "description": "correct",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1017,
+          "y": 1600
+        },
+        {
+          "x": 1108,
+          "y": 1601
+        },
+        {
+          "x": 1108,
+          "y": 1628
+        },
+        {
+          "x": 1017,
+          "y": 1627
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1120,
+          "y": 1600
+        },
+        {
+          "x": 1149,
+          "y": 1600
+        },
+        {
+          "x": 1149,
+          "y": 1627
+        },
+        {
+          "x": 1120,
+          "y": 1627
+        }
+      ]
+    },
+    {
+      "description": "rotation",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1163,
+          "y": 1601
+        },
+        {
+          "x": 1262,
+          "y": 1602
+        },
+        {
+          "x": 1262,
+          "y": 1629
+        },
+        {
+          "x": 1163,
+          "y": 1628
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1277,
+          "y": 1601
+        },
+        {
+          "x": 1305,
+          "y": 1601
+        },
+        {
+          "x": 1305,
+          "y": 1628
+        },
+        {
+          "x": 1277,
+          "y": 1628
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1318,
+          "y": 1601
+        },
+        {
+          "x": 1343,
+          "y": 1601
+        },
+        {
+          "x": 1343,
+          "y": 1628
+        },
+        {
+          "x": 1318,
+          "y": 1628
+        }
+      ]
+    },
+    {
+      "description": "fraise",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1354,
+          "y": 1602
+        },
+        {
+          "x": 1432,
+          "y": 1602
+        },
+        {
+          "x": 1432,
+          "y": 1629
+        },
+        {
+          "x": 1354,
+          "y": 1629
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1431,
+          "y": 1602
+        },
+        {
+          "x": 1439,
+          "y": 1602
+        },
+        {
+          "x": 1439,
+          "y": 1629
+        },
+        {
+          "x": 1431,
+          "y": 1629
+        }
+      ]
+    },
+    {
+      "description": "Cette",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 264,
+          "y": 1635
+        },
+        {
+          "x": 335,
+          "y": 1635
+        },
+        {
+          "x": 335,
+          "y": 1663
+        },
+        {
+          "x": 264,
+          "y": 1663
+        }
+      ]
+    },
+    {
+      "description": "vis",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 349,
+          "y": 1635
+        },
+        {
+          "x": 387,
+          "y": 1635
+        },
+        {
+          "x": 387,
+          "y": 1663
+        },
+        {
+          "x": 349,
+          "y": 1663
+        }
+      ]
+    },
+    {
+      "description": "plac\u00e9e",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 400,
+          "y": 1635
+        },
+        {
+          "x": 486,
+          "y": 1635
+        },
+        {
+          "x": 486,
+          "y": 1663
+        },
+        {
+          "x": 400,
+          "y": 1663
+        }
+      ]
+    },
+    {
+      "description": "au",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 501,
+          "y": 1635
+        },
+        {
+          "x": 528,
+          "y": 1635
+        },
+        {
+          "x": 528,
+          "y": 1664
+        },
+        {
+          "x": 501,
+          "y": 1664
+        }
+      ]
+    },
+    {
+      "description": "centre",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 544,
+          "y": 1636
+        },
+        {
+          "x": 621,
+          "y": 1636
+        },
+        {
+          "x": 621,
+          "y": 1664
+        },
+        {
+          "x": 544,
+          "y": 1664
+        }
+      ]
+    },
+    {
+      "description": "du",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 636,
+          "y": 1636
+        },
+        {
+          "x": 665,
+          "y": 1636
+        },
+        {
+          "x": 665,
+          "y": 1664
+        },
+        {
+          "x": 636,
+          "y": 1664
+        }
+      ]
+    },
+    {
+      "description": "dessin",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 678,
+          "y": 1636
+        },
+        {
+          "x": 762,
+          "y": 1636
+        },
+        {
+          "x": 762,
+          "y": 1665
+        },
+        {
+          "x": 678,
+          "y": 1665
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 775,
+          "y": 1637
+        },
+        {
+          "x": 805,
+          "y": 1637
+        },
+        {
+          "x": 805,
+          "y": 1665
+        },
+        {
+          "x": 775,
+          "y": 1665
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 817,
+          "y": 1637
+        },
+        {
+          "x": 844,
+          "y": 1637
+        },
+        {
+          "x": 844,
+          "y": 1665
+        },
+        {
+          "x": 817,
+          "y": 1665
+        }
+      ]
+    },
+    {
+      "description": "fraise",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 854,
+          "y": 1637
+        },
+        {
+          "x": 932,
+          "y": 1637
+        },
+        {
+          "x": 932,
+          "y": 1665
+        },
+        {
+          "x": 854,
+          "y": 1665
+        }
+      ]
+    },
+    {
+      "description": "qui",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 945,
+          "y": 1637
+        },
+        {
+          "x": 983,
+          "y": 1637
+        },
+        {
+          "x": 983,
+          "y": 1665
+        },
+        {
+          "x": 945,
+          "y": 1665
+        }
+      ]
+    },
+    {
+      "description": "correspond",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 998,
+          "y": 1637
+        },
+        {
+          "x": 1139,
+          "y": 1638
+        },
+        {
+          "x": 1139,
+          "y": 1667
+        },
+        {
+          "x": 998,
+          "y": 1666
+        }
+      ]
+    },
+    {
+      "description": "avec",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1151,
+          "y": 1638
+        },
+        {
+          "x": 1211,
+          "y": 1638
+        },
+        {
+          "x": 1211,
+          "y": 1666
+        },
+        {
+          "x": 1151,
+          "y": 1666
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1225,
+          "y": 1639
+        },
+        {
+          "x": 1249,
+          "y": 1639
+        },
+        {
+          "x": 1249,
+          "y": 1667
+        },
+        {
+          "x": 1225,
+          "y": 1667
+        }
+      ]
+    },
+    {
+      "description": "fraise",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1262,
+          "y": 1639
+        },
+        {
+          "x": 1339,
+          "y": 1639
+        },
+        {
+          "x": 1339,
+          "y": 1667
+        },
+        {
+          "x": 1262,
+          "y": 1667
+        }
+      ]
+    },
+    {
+      "description": "mont\u00e9e",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1351,
+          "y": 1639
+        },
+        {
+          "x": 1439,
+          "y": 1639
+        },
+        {
+          "x": 1439,
+          "y": 1667
+        },
+        {
+          "x": 1351,
+          "y": 1667
+        }
+      ]
+    },
+    {
+      "description": "sur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 266,
+          "y": 1672
+        },
+        {
+          "x": 307,
+          "y": 1672
+        },
+        {
+          "x": 307,
+          "y": 1700
+        },
+        {
+          "x": 266,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 316,
+          "y": 1672
+        },
+        {
+          "x": 342,
+          "y": 1672
+        },
+        {
+          "x": 342,
+          "y": 1700
+        },
+        {
+          "x": 316,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "broche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 351,
+          "y": 1672
+        },
+        {
+          "x": 437,
+          "y": 1672
+        },
+        {
+          "x": 437,
+          "y": 1700
+        },
+        {
+          "x": 351,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 439,
+          "y": 1672
+        },
+        {
+          "x": 445,
+          "y": 1672
+        },
+        {
+          "x": 445,
+          "y": 1700
+        },
+        {
+          "x": 439,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "donne",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 458,
+          "y": 1672
+        },
+        {
+          "x": 535,
+          "y": 1672
+        },
+        {
+          "x": 535,
+          "y": 1700
+        },
+        {
+          "x": 458,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "automatiquement",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 546,
+          "y": 1672
+        },
+        {
+          "x": 761,
+          "y": 1672
+        },
+        {
+          "x": 761,
+          "y": 1700
+        },
+        {
+          "x": 546,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 773,
+          "y": 1672
+        },
+        {
+          "x": 795,
+          "y": 1672
+        },
+        {
+          "x": 795,
+          "y": 1700
+        },
+        {
+          "x": 773,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "sens",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 809,
+          "y": 1672
+        },
+        {
+          "x": 867,
+          "y": 1672
+        },
+        {
+          "x": 867,
+          "y": 1700
+        },
+        {
+          "x": 809,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 879,
+          "y": 1672
+        },
+        {
+          "x": 907,
+          "y": 1672
+        },
+        {
+          "x": 907,
+          "y": 1700
+        },
+        {
+          "x": 879,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "rotation",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 919,
+          "y": 1672
+        },
+        {
+          "x": 1019,
+          "y": 1672
+        },
+        {
+          "x": 1019,
+          "y": 1700
+        },
+        {
+          "x": 919,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "d\u00e9sir\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1031,
+          "y": 1672
+        },
+        {
+          "x": 1112,
+          "y": 1672
+        },
+        {
+          "x": 1112,
+          "y": 1700
+        },
+        {
+          "x": 1031,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1113,
+          "y": 1672
+        },
+        {
+          "x": 1118,
+          "y": 1672
+        },
+        {
+          "x": 1118,
+          "y": 1700
+        },
+        {
+          "x": 1113,
+          "y": 1700
+        }
+      ]
+    },
+    {
+      "description": "Lors",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 264,
+          "y": 1727
+        },
+        {
+          "x": 324,
+          "y": 1727
+        },
+        {
+          "x": 324,
+          "y": 1754
+        },
+        {
+          "x": 264,
+          "y": 1754
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 339,
+          "y": 1727
+        },
+        {
+          "x": 368,
+          "y": 1727
+        },
+        {
+          "x": 368,
+          "y": 1754
+        },
+        {
+          "x": 339,
+          "y": 1754
+        }
+      ]
+    },
+    {
+      "description": "longs",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 382,
+          "y": 1727
+        },
+        {
+          "x": 451,
+          "y": 1727
+        },
+        {
+          "x": 451,
+          "y": 1754
+        },
+        {
+          "x": 382,
+          "y": 1754
+        }
+      ]
+    },
+    {
+      "description": "arr\u00eats",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 467,
+          "y": 1728
+        },
+        {
+          "x": 540,
+          "y": 1728
+        },
+        {
+          "x": 540,
+          "y": 1755
+        },
+        {
+          "x": 467,
+          "y": 1755
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 556,
+          "y": 1728
+        },
+        {
+          "x": 584,
+          "y": 1728
+        },
+        {
+          "x": 584,
+          "y": 1755
+        },
+        {
+          "x": 556,
+          "y": 1755
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 598,
+          "y": 1728
+        },
+        {
+          "x": 622,
+          "y": 1728
+        },
+        {
+          "x": 622,
+          "y": 1755
+        },
+        {
+          "x": 598,
+          "y": 1755
+        }
+      ]
+    },
+    {
+      "description": "machine",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 636,
+          "y": 1728
+        },
+        {
+          "x": 741,
+          "y": 1729
+        },
+        {
+          "x": 741,
+          "y": 1757
+        },
+        {
+          "x": 636,
+          "y": 1756
+        }
+      ]
+    },
+    {
+      "description": ",",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 744,
+          "y": 1729
+        },
+        {
+          "x": 748,
+          "y": 1729
+        },
+        {
+          "x": 748,
+          "y": 1756
+        },
+        {
+          "x": 744,
+          "y": 1756
+        }
+      ]
+    },
+    {
+      "description": "il",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 766,
+          "y": 1729
+        },
+        {
+          "x": 783,
+          "y": 1729
+        },
+        {
+          "x": 783,
+          "y": 1756
+        },
+        {
+          "x": 766,
+          "y": 1756
+        }
+      ]
+    },
+    {
+      "description": "est",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 798,
+          "y": 1729
+        },
+        {
+          "x": 838,
+          "y": 1729
+        },
+        {
+          "x": 838,
+          "y": 1757
+        },
+        {
+          "x": 798,
+          "y": 1757
+        }
+      ]
+    },
+    {
+      "description": "recommand\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 852,
+          "y": 1729
+        },
+        {
+          "x": 1007,
+          "y": 1730
+        },
+        {
+          "x": 1007,
+          "y": 1758
+        },
+        {
+          "x": 852,
+          "y": 1757
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1020,
+          "y": 1731
+        },
+        {
+          "x": 1050,
+          "y": 1731
+        },
+        {
+          "x": 1050,
+          "y": 1758
+        },
+        {
+          "x": 1020,
+          "y": 1758
+        }
+      ]
+    },
+    {
+      "description": "d\u00e9clencher",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1063,
+          "y": 1730
+        },
+        {
+          "x": 1206,
+          "y": 1731
+        },
+        {
+          "x": 1206,
+          "y": 1759
+        },
+        {
+          "x": 1063,
+          "y": 1758
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1219,
+          "y": 1732
+        },
+        {
+          "x": 1244,
+          "y": 1732
+        },
+        {
+          "x": 1244,
+          "y": 1759
+        },
+        {
+          "x": 1219,
+          "y": 1759
+        }
+      ]
+    },
+    {
+      "description": "contacteur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1258,
+          "y": 1731
+        },
+        {
+          "x": 1397,
+          "y": 1732
+        },
+        {
+          "x": 1397,
+          "y": 1760
+        },
+        {
+          "x": 1258,
+          "y": 1759
+        }
+      ]
+    },
+    {
+      "description": "in",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1405,
+          "y": 1733
+        },
+        {
+          "x": 1435,
+          "y": 1733
+        },
+        {
+          "x": 1435,
+          "y": 1760
+        },
+        {
+          "x": 1405,
+          "y": 1760
+        }
+      ]
+    },
+    {
+      "description": "diqu\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 263,
+          "y": 1768
+        },
+        {
+          "x": 335,
+          "y": 1768
+        },
+        {
+          "x": 335,
+          "y": 1797
+        },
+        {
+          "x": 263,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "par",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 347,
+          "y": 1768
+        },
+        {
+          "x": 387,
+          "y": 1768
+        },
+        {
+          "x": 387,
+          "y": 1797
+        },
+        {
+          "x": 347,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "une",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 400,
+          "y": 1768
+        },
+        {
+          "x": 444,
+          "y": 1768
+        },
+        {
+          "x": 444,
+          "y": 1797
+        },
+        {
+          "x": 400,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "plaquette",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 457,
+          "y": 1768
+        },
+        {
+          "x": 578,
+          "y": 1768
+        },
+        {
+          "x": 578,
+          "y": 1797
+        },
+        {
+          "x": 457,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "montrant",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 593,
+          "y": 1768
+        },
+        {
+          "x": 701,
+          "y": 1768
+        },
+        {
+          "x": 701,
+          "y": 1797
+        },
+        {
+          "x": 593,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "une",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 715,
+          "y": 1768
+        },
+        {
+          "x": 759,
+          "y": 1768
+        },
+        {
+          "x": 759,
+          "y": 1797
+        },
+        {
+          "x": 715,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "fraise",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 772,
+          "y": 1768
+        },
+        {
+          "x": 847,
+          "y": 1768
+        },
+        {
+          "x": 847,
+          "y": 1797
+        },
+        {
+          "x": 772,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 851,
+          "y": 1768
+        },
+        {
+          "x": 854,
+          "y": 1768
+        },
+        {
+          "x": 854,
+          "y": 1797
+        },
+        {
+          "x": 851,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "La",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 871,
+          "y": 1768
+        },
+        {
+          "x": 906,
+          "y": 1768
+        },
+        {
+          "x": 906,
+          "y": 1797
+        },
+        {
+          "x": 871,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "mise",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 918,
+          "y": 1768
+        },
+        {
+          "x": 978,
+          "y": 1768
+        },
+        {
+          "x": 978,
+          "y": 1797
+        },
+        {
+          "x": 918,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "en",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 992,
+          "y": 1768
+        },
+        {
+          "x": 1019,
+          "y": 1768
+        },
+        {
+          "x": 1019,
+          "y": 1797
+        },
+        {
+          "x": 992,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "marche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1034,
+          "y": 1768
+        },
+        {
+          "x": 1124,
+          "y": 1768
+        },
+        {
+          "x": 1124,
+          "y": 1797
+        },
+        {
+          "x": 1034,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "du",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1137,
+          "y": 1768
+        },
+        {
+          "x": 1167,
+          "y": 1768
+        },
+        {
+          "x": 1167,
+          "y": 1797
+        },
+        {
+          "x": 1137,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "moteur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1181,
+          "y": 1768
+        },
+        {
+          "x": 1266,
+          "y": 1768
+        },
+        {
+          "x": 1266,
+          "y": 1797
+        },
+        {
+          "x": 1181,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "des",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1278,
+          "y": 1768
+        },
+        {
+          "x": 1321,
+          "y": 1768
+        },
+        {
+          "x": 1321,
+          "y": 1797
+        },
+        {
+          "x": 1278,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "avances",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1336,
+          "y": 1768
+        },
+        {
+          "x": 1440,
+          "y": 1768
+        },
+        {
+          "x": 1440,
+          "y": 1797
+        },
+        {
+          "x": 1336,
+          "y": 1797
+        }
+      ]
+    },
+    {
+      "description": "rapides",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 263,
+          "y": 1807
+        },
+        {
+          "x": 358,
+          "y": 1807
+        },
+        {
+          "x": 358,
+          "y": 1838
+        },
+        {
+          "x": 263,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "se",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 375,
+          "y": 1807
+        },
+        {
+          "x": 404,
+          "y": 1807
+        },
+        {
+          "x": 404,
+          "y": 1838
+        },
+        {
+          "x": 375,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "fait",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 418,
+          "y": 1807
+        },
+        {
+          "x": 462,
+          "y": 1807
+        },
+        {
+          "x": 462,
+          "y": 1838
+        },
+        {
+          "x": 418,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "au",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 477,
+          "y": 1807
+        },
+        {
+          "x": 506,
+          "y": 1807
+        },
+        {
+          "x": 506,
+          "y": 1838
+        },
+        {
+          "x": 477,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "moyen",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 521,
+          "y": 1807
+        },
+        {
+          "x": 599,
+          "y": 1807
+        },
+        {
+          "x": 599,
+          "y": 1838
+        },
+        {
+          "x": 521,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 614,
+          "y": 1807
+        },
+        {
+          "x": 642,
+          "y": 1807
+        },
+        {
+          "x": 642,
+          "y": 1838
+        },
+        {
+          "x": 614,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 658,
+          "y": 1807
+        },
+        {
+          "x": 681,
+          "y": 1807
+        },
+        {
+          "x": 681,
+          "y": 1838
+        },
+        {
+          "x": 658,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "p\u00e9dale",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 695,
+          "y": 1807
+        },
+        {
+          "x": 779,
+          "y": 1807
+        },
+        {
+          "x": 779,
+          "y": 1838
+        },
+        {
+          "x": 695,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "24",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 794,
+          "y": 1807
+        },
+        {
+          "x": 822,
+          "y": 1807
+        },
+        {
+          "x": 822,
+          "y": 1838
+        },
+        {
+          "x": 794,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "et",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 839,
+          "y": 1807
+        },
+        {
+          "x": 861,
+          "y": 1807
+        },
+        {
+          "x": 861,
+          "y": 1838
+        },
+        {
+          "x": 839,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "l'interrupteur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 875,
+          "y": 1807
+        },
+        {
+          "x": 1048,
+          "y": 1807
+        },
+        {
+          "x": 1048,
+          "y": 1838
+        },
+        {
+          "x": 875,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "\u00e0",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1062,
+          "y": 1807
+        },
+        {
+          "x": 1075,
+          "y": 1807
+        },
+        {
+          "x": 1075,
+          "y": 1838
+        },
+        {
+          "x": 1062,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "poussoir",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1089,
+          "y": 1807
+        },
+        {
+          "x": 1201,
+          "y": 1807
+        },
+        {
+          "x": 1201,
+          "y": 1838
+        },
+        {
+          "x": 1089,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "23",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1215,
+          "y": 1807
+        },
+        {
+          "x": 1243,
+          "y": 1807
+        },
+        {
+          "x": 1243,
+          "y": 1838
+        },
+        {
+          "x": 1215,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "plac\u00e9s",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1257,
+          "y": 1807
+        },
+        {
+          "x": 1344,
+          "y": 1807
+        },
+        {
+          "x": 1344,
+          "y": 1838
+        },
+        {
+          "x": 1257,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "devant",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1356,
+          "y": 1807
+        },
+        {
+          "x": 1440,
+          "y": 1807
+        },
+        {
+          "x": 1440,
+          "y": 1838
+        },
+        {
+          "x": 1356,
+          "y": 1838
+        }
+      ]
+    },
+    {
+      "description": "et",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 262,
+          "y": 1845
+        },
+        {
+          "x": 288,
+          "y": 1845
+        },
+        {
+          "x": 288,
+          "y": 1867
+        },
+        {
+          "x": 262,
+          "y": 1867
+        }
+      ]
+    },
+    {
+      "description": "dans",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 298,
+          "y": 1845
+        },
+        {
+          "x": 358,
+          "y": 1845
+        },
+        {
+          "x": 358,
+          "y": 1867
+        },
+        {
+          "x": 298,
+          "y": 1867
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 369,
+          "y": 1845
+        },
+        {
+          "x": 393,
+          "y": 1845
+        },
+        {
+          "x": 393,
+          "y": 1867
+        },
+        {
+          "x": 369,
+          "y": 1867
+        }
+      ]
+    },
+    {
+      "description": "socle",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 406,
+          "y": 1845
+        },
+        {
+          "x": 475,
+          "y": 1845
+        },
+        {
+          "x": 475,
+          "y": 1867
+        },
+        {
+          "x": 406,
+          "y": 1867
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 478,
+          "y": 1845
+        },
+        {
+          "x": 483,
+          "y": 1845
+        },
+        {
+          "x": 483,
+          "y": 1867
+        },
+        {
+          "x": 478,
+          "y": 1867
+        }
+      ]
+    },
+    {
+      "description": "Le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 263,
+          "y": 1897
+        },
+        {
+          "x": 297,
+          "y": 1897
+        },
+        {
+          "x": 297,
+          "y": 1927
+        },
+        {
+          "x": 263,
+          "y": 1927
+        }
+      ]
+    },
+    {
+      "description": "moteur",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 312,
+          "y": 1897
+        },
+        {
+          "x": 399,
+          "y": 1897
+        },
+        {
+          "x": 399,
+          "y": 1927
+        },
+        {
+          "x": 312,
+          "y": 1927
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 411,
+          "y": 1897
+        },
+        {
+          "x": 441,
+          "y": 1897
+        },
+        {
+          "x": 441,
+          "y": 1927
+        },
+        {
+          "x": 411,
+          "y": 1927
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 454,
+          "y": 1898
+        },
+        {
+          "x": 479,
+          "y": 1898
+        },
+        {
+          "x": 479,
+          "y": 1928
+        },
+        {
+          "x": 454,
+          "y": 1928
+        }
+      ]
+    },
+    {
+      "description": "pompe",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 492,
+          "y": 1898
+        },
+        {
+          "x": 573,
+          "y": 1898
+        },
+        {
+          "x": 573,
+          "y": 1928
+        },
+        {
+          "x": 492,
+          "y": 1928
+        }
+      ]
+    },
+    {
+      "description": "est",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 587,
+          "y": 1898
+        },
+        {
+          "x": 624,
+          "y": 1898
+        },
+        {
+          "x": 624,
+          "y": 1929
+        },
+        {
+          "x": 587,
+          "y": 1929
+        }
+      ]
+    },
+    {
+      "description": "mis",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 640,
+          "y": 1899
+        },
+        {
+          "x": 682,
+          "y": 1899
+        },
+        {
+          "x": 682,
+          "y": 1929
+        },
+        {
+          "x": 640,
+          "y": 1929
+        }
+      ]
+    },
+    {
+      "description": "en",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 698,
+          "y": 1899
+        },
+        {
+          "x": 725,
+          "y": 1899
+        },
+        {
+          "x": 725,
+          "y": 1929
+        },
+        {
+          "x": 698,
+          "y": 1929
+        }
+      ]
+    },
+    {
+      "description": "marche",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 741,
+          "y": 1899
+        },
+        {
+          "x": 829,
+          "y": 1899
+        },
+        {
+          "x": 829,
+          "y": 1930
+        },
+        {
+          "x": 741,
+          "y": 1930
+        }
+      ]
+    },
+    {
+      "description": "par",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 844,
+          "y": 1900
+        },
+        {
+          "x": 884,
+          "y": 1900
+        },
+        {
+          "x": 884,
+          "y": 1930
+        },
+        {
+          "x": 844,
+          "y": 1930
+        }
+      ]
+    },
+    {
+      "description": "le",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 897,
+          "y": 1900
+        },
+        {
+          "x": 920,
+          "y": 1900
+        },
+        {
+          "x": 920,
+          "y": 1930
+        },
+        {
+          "x": 897,
+          "y": 1930
+        }
+      ]
+    },
+    {
+      "description": "bouton",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 935,
+          "y": 1900
+        },
+        {
+          "x": 1018,
+          "y": 1900
+        },
+        {
+          "x": 1018,
+          "y": 1931
+        },
+        {
+          "x": 935,
+          "y": 1931
+        }
+      ]
+    },
+    {
+      "description": "21",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1033,
+          "y": 1901
+        },
+        {
+          "x": 1062,
+          "y": 1901
+        },
+        {
+          "x": 1062,
+          "y": 1931
+        },
+        {
+          "x": 1033,
+          "y": 1931
+        }
+      ]
+    },
+    {
+      "description": "du",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1077,
+          "y": 1901
+        },
+        {
+          "x": 1106,
+          "y": 1901
+        },
+        {
+          "x": 1106,
+          "y": 1931
+        },
+        {
+          "x": 1077,
+          "y": 1931
+        }
+      ]
+    },
+    {
+      "description": "coffret",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1121,
+          "y": 1901
+        },
+        {
+          "x": 1207,
+          "y": 1901
+        },
+        {
+          "x": 1207,
+          "y": 1932
+        },
+        {
+          "x": 1121,
+          "y": 1932
+        }
+      ]
+    },
+    {
+      "description": "de",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1219,
+          "y": 1902
+        },
+        {
+          "x": 1247,
+          "y": 1902
+        },
+        {
+          "x": 1247,
+          "y": 1932
+        },
+        {
+          "x": 1219,
+          "y": 1932
+        }
+      ]
+    },
+    {
+      "description": "protection",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1260,
+          "y": 1902
+        },
+        {
+          "x": 1389,
+          "y": 1903
+        },
+        {
+          "x": 1389,
+          "y": 1934
+        },
+        {
+          "x": 1260,
+          "y": 1933
+        }
+      ]
+    },
+    {
+      "description": "qui",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1400,
+          "y": 1903
+        },
+        {
+          "x": 1438,
+          "y": 1903
+        },
+        {
+          "x": 1438,
+          "y": 1933
+        },
+        {
+          "x": 1400,
+          "y": 1933
+        }
+      ]
+    },
+    {
+      "description": "est",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 261,
+          "y": 1939
+        },
+        {
+          "x": 301,
+          "y": 1939
+        },
+        {
+          "x": 301,
+          "y": 1968
+        },
+        {
+          "x": 261,
+          "y": 1968
+        }
+      ]
+    },
+    {
+      "description": "indiqu\u00e9",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 313,
+          "y": 1939
+        },
+        {
+          "x": 409,
+          "y": 1939
+        },
+        {
+          "x": 409,
+          "y": 1968
+        },
+        {
+          "x": 313,
+          "y": 1968
+        }
+      ]
+    },
+    {
+      "description": "par",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 419,
+          "y": 1939
+        },
+        {
+          "x": 460,
+          "y": 1939
+        },
+        {
+          "x": 460,
+          "y": 1968
+        },
+        {
+          "x": 419,
+          "y": 1968
+        }
+      ]
+    },
+    {
+      "description": "la",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 471,
+          "y": 1939
+        },
+        {
+          "x": 496,
+          "y": 1939
+        },
+        {
+          "x": 496,
+          "y": 1968
+        },
+        {
+          "x": 471,
+          "y": 1968
+        }
+      ]
+    },
+    {
+      "description": "plaquette",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 506,
+          "y": 1939
+        },
+        {
+          "x": 626,
+          "y": 1939
+        },
+        {
+          "x": 626,
+          "y": 1968
+        },
+        {
+          "x": 506,
+          "y": 1968
+        }
+      ]
+    },
+    {
+      "description": "montrant",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 639,
+          "y": 1939
+        },
+        {
+          "x": 749,
+          "y": 1939
+        },
+        {
+          "x": 749,
+          "y": 1968
+        },
+        {
+          "x": 639,
+          "y": 1968
+        }
+      ]
+    },
+    {
+      "description": "un",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 761,
+          "y": 1939
+        },
+        {
+          "x": 789,
+          "y": 1939
+        },
+        {
+          "x": 789,
+          "y": 1968
+        },
+        {
+          "x": 761,
+          "y": 1968
+        }
+      ]
+    },
+    {
+      "description": "robinet",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 801,
+          "y": 1939
+        },
+        {
+          "x": 892,
+          "y": 1939
+        },
+        {
+          "x": 892,
+          "y": 1968
+        },
+        {
+          "x": 801,
+          "y": 1968
+        }
+      ]
+    },
+    {
+      "description": ".",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 893,
+          "y": 1939
+        },
+        {
+          "x": 902,
+          "y": 1939
+        },
+        {
+          "x": 902,
+          "y": 1968
+        },
+        {
+          "x": 893,
+          "y": 1968
+        }
+      ]
+    },
+    {
+      "description": "IN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 191,
+          "y": 2227
+        },
+        {
+          "x": 222,
+          "y": 2227
+        },
+        {
+          "x": 222,
+          "y": 2246
+        },
+        {
+          "x": 191,
+          "y": 2246
+        }
+      ]
+    },
+    {
+      "description": "13",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 235,
+          "y": 2227
+        },
+        {
+          "x": 264,
+          "y": 2227
+        },
+        {
+          "x": 264,
+          "y": 2246
+        },
+        {
+          "x": 235,
+          "y": 2246
+        }
+      ]
+    },
+    {
+      "description": "FABRIQUE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 171,
+          "y": 2151
+        },
+        {
+          "x": 367,
+          "y": 2151
+        },
+        {
+          "x": 367,
+          "y": 2188
+        },
+        {
+          "x": 171,
+          "y": 2188
+        }
+      ]
+    },
+    {
+      "description": "DE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 385,
+          "y": 2151
+        },
+        {
+          "x": 434,
+          "y": 2151
+        },
+        {
+          "x": 434,
+          "y": 2188
+        },
+        {
+          "x": 385,
+          "y": 2188
+        }
+      ]
+    },
+    {
+      "description": "MACHINES",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 456,
+          "y": 2151
+        },
+        {
+          "x": 663,
+          "y": 2151
+        },
+        {
+          "x": 663,
+          "y": 2188
+        },
+        {
+          "x": 456,
+          "y": 2188
+        }
+      ]
+    },
+    {
+      "description": "SCHAUBLIN",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 696,
+          "y": 2151
+        },
+        {
+          "x": 985,
+          "y": 2151
+        },
+        {
+          "x": 985,
+          "y": 2188
+        },
+        {
+          "x": 696,
+          "y": 2188
+        }
+      ]
+    },
+    {
+      "description": "S.A.",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1015,
+          "y": 2151
+        },
+        {
+          "x": 1108,
+          "y": 2151
+        },
+        {
+          "x": 1108,
+          "y": 2188
+        },
+        {
+          "x": 1015,
+          "y": 2188
+        }
+      ]
+    },
+    {
+      "description": "B\u00c9VILARD",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1136,
+          "y": 2151
+        },
+        {
+          "x": 1343,
+          "y": 2151
+        },
+        {
+          "x": 1343,
+          "y": 2188
+        },
+        {
+          "x": 1136,
+          "y": 2188
+        }
+      ]
+    },
+    {
+      "description": "/",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1354,
+          "y": 2151
+        },
+        {
+          "x": 1375,
+          "y": 2151
+        },
+        {
+          "x": 1375,
+          "y": 2188
+        },
+        {
+          "x": 1354,
+          "y": 2188
+        }
+      ]
+    },
+    {
+      "description": "SUISSE",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1387,
+          "y": 2151
+        },
+        {
+          "x": 1546,
+          "y": 2151
+        },
+        {
+          "x": 1546,
+          "y": 2188
+        },
+        {
+          "x": 1387,
+          "y": 2188
+        }
+      ]
+    },
+    {
+      "description": "15",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1495,
+          "y": 2229
+        },
+        {
+          "x": 1525,
+          "y": 2229
+        },
+        {
+          "x": 1525,
+          "y": 2251
+        },
+        {
+          "x": 1495,
+          "y": 2251
+        }
+      ]
+    },
+    {
+      "description": "\u0646\u0627\u0645\u0647",
+      "confidence": 0.0,
+      "bounding_poly": [
+        {
+          "x": 1609,
+          "y": 12
+        },
+        {
+          "x": 1638,
+          "y": 41
+        },
+        {
+          "x": 1629,
+          "y": 50
+        },
+        {
+          "x": 1600,
+          "y": 21
+        }
+      ]
+    }
+  ]
+}
