@@ -17,13 +17,13 @@ jobs:
       run: |
         sudo apt-get update -qy
         sudo apt-get install -qy texlive-xetex
-
+    - name: Create build directory
+      run: mkdir -p build
     - name: Build LaTeX document
       run: |
-        xelatex -interaction=nonstopmode -output-directory=build schaublin_13_first_gen/tex/main.tex
-
+        xelatex -interaction=nonstopmode -output-directory=$GITHUB_WORKSPACE/build schaublin_13_first_gen/tex/main.tex
     - name: Upload PDF artifact
       uses: actions/upload-artifact@v2
       with:
         name: output
-        path: build/main.pdf
+        path: $GITHUB_WORKSPACE/build/main.pdf
