@@ -28,6 +28,10 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE/schaublin_13_first_gen/tex
         xelatex -interaction=nonstopmode -output-directory=$GITHUB_WORKSPACE/build main.tex
+    - name: Debugging
+      run: |
+        echo "Workspace: $(GITHUB_WORKSPACE)"
+        echo echo "List build dir files: $(ls -la $GITHUB_WORKSPACE/build)"
     - name: Upload PDF artifact
       uses: actions/upload-artifact@v2
       with:
