@@ -1,0 +1,29 @@
+name: Build LaTeX Document
+
+on:
+  push:
+    branches:
+      - master  # Adjust the branch as needed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Set up Git repository
+      uses: actions/checkout@v2
+
+    - name: Install TeX Live
+      run: |
+        sudo apt-get update -qy
+        sudo apt-get install -qy texlive-xetex
+
+    - name: Build LaTeX document
+      run: |
+        xelatex -interaction=nonstopmode -output-directory=build schaublin_13_first_gen/tex/main.tex
+
+    - name: Upload PDF artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: output
+        path: build/main.pdf
